@@ -50,10 +50,28 @@ Star</description>
     
     <item>
       <title>Service</title>
-      <link>https://chao-peng.github.io/home/accomplishments/</link>
+      <link>https://chao-peng.github.io/home/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chao-peng.github.io/home/accomplishments/</guid>
+      <guid>https://chao-peng.github.io/home/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://chao-peng.github.io/home/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/home/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://chao-peng.github.io/home/skills-old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/home/skills-old/</guid>
       <description></description>
     </item>
     
@@ -63,16 +81,27 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chao-peng.github.io/home/skills/</guid>
-      <description></description>
+      <description>   Programming Languages Parallel Programming Languages     C/C++JavaPythonFortran OpenCLMPIOpenMPCUDA Mandarin Chinese - NativeEnglish - ProficientGerman - Basic    </description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://chao-peng.github.io/home/experience/</link>
+      <title>Teaching</title>
+      <link>https://chao-peng.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chao-peng.github.io/home/experience/</guid>
-      <description></description>
+      <guid>https://chao-peng.github.io/home/teaching/</guid>
+      <description>[Teaching Assistant, Tutor and Marker] Software Testing. School of Informatics, the University of Edinburgh. Jan 2018 - Apr 2018, Jan 2019 - Apr 2019
+[Marker] Computer Programming Skills and Concepts. School of Informatics, the University of Edinburgh. Nov 2017 - Dec 2017, Dec 2018 - Jan 2019
+[Demonstrator] Introduction to Java Programming. School of Informatics, the University of Edinburgh. Sep 2017 - Dec2017, Sep 2018 - Dec 2018</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://chao-peng.github.io/home/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/home/awards/</guid>
+      <description> Scholarship  Huawei Scholarship (fully-funded PhD scholarship) Outstanding Graduate Scholarship at Xuzhou University of Technology China National Scholarship of 2014&amp;frasl;15 Academic Year China National Encouragement Scholarship of 2013&amp;frasl;14 Academic Year China National Scholarship of 2012&amp;frasl;13 Academic Year  Honours  Nominee for Teaching Awards: Best Student Who Tutors Award Certificate of Achievement for Participating in the 6th Annual HPCAC Student Cluster Competition Top Ten Role Models of Study in Xuzhou University of Technology Excellent Graduate of Xuzhou University of Technology Jiangsu Province-Level Excellent Student Cadre  </description>
     </item>
     
     <item>
@@ -82,6 +111,15 @@ Star</description>
       
       <guid>https://chao-peng.github.io/home/publications_featured/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Extra-Curricular &amp; Volunteer Experience</title>
+      <link>https://chao-peng.github.io/home/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/home/extra/</guid>
+      <description> [13 Apr 2017-15 Apr] 2017 Volunteer and demonstrator at drop-in event ‘What can supercomputers do’ at Edinburgh International Science Festival [Sep 2013 - Sep 2014] Key volunteer of the 18th Sports Meeting of Jiangsu Province [Dec 2014 - Dec 2015] President of the Student Union of Department of Information &amp;amp; Electrical Engineering, Xuzhou University of Technology  </description>
     </item>
     
     <item>
@@ -118,17 +156,6 @@ Star</description>
       
       <guid>https://chao-peng.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://chao-peng.github.io/home/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chao-peng.github.io/home/teaching/</guid>
-      <description>[Teaching Assistant, Tutor and Marker] Software Testing. School of Informatics, the University of Edinburgh. Jan 2018 - Apr 2018, Jan 2019 - Apr 2019
-[Marker] Computer Programming Skills and Concepts. School of Informatics, the University of Edinburgh. Nov 2017 - Dec 2017, Dec 2018 - Jan 2019
-[Demonstrator] Introduction to Java Programming. School of Informatics, the University of Edinburgh. Sep 2017 - Dec2017, Sep 2018 - Dec 2018</description>
     </item>
     
     <item>
