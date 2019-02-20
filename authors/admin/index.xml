@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Chao Peng</title>
+    <link>https://chao-peng.github.io/authors/admin/</link>
+    <description>Recent content in admin on Chao Peng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 20 Feb 2019 19:34:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://chao-peng.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://chao-peng.github.io/author/chao/</link>
+      <pubDate>Wed, 20 Feb 2019 19:34:05 +0800</pubDate>
+      
+      <guid>https://chao-peng.github.io/author/chao/</guid>
+      <description>Chao Peng （彭超） is a PhD candidate at the Laboratory for Foundations of Computer Science (LFCS), School of Informatics, the University of Edinburgh. He holds an MSc in High Performance Computing with Data Science from the University of Edinburgh and a BEng in Computer Science and Technology from Xuzhou University of Technology. During his MSc, he was a member of Team EPCC for the International Supercomputing Conference</description>
+    </item>
+    
+  </channel>
+</rss>

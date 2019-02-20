@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Chao Peng</title>
+    <link>https://chao-peng.github.io/authors/</link>
+    <description>Recent content in Authors on Chao Peng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://chao-peng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajitha Rajan</title>
+      <link>https://chao-peng.github.io/authors/ajitha-rajan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://chao-peng.github.io/authors/ajitha-rajan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chao Peng</title>
+      <link>https://chao-peng.github.io/authors/chao-peng/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://chao-peng.github.io/authors/chao-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>https://chao-peng.github.io/authors/admin/</link>
+      <pubDate>Wed, 20 Feb 2019 19:34:05 +0800</pubDate>
+      
+      <guid>https://chao-peng.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
