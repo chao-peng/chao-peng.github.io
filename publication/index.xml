@@ -12,9 +12,18 @@
     
     
     <item>
+      <title>SIF: A Framework for Solidity Code Instrumentation and Analysis</title>
+      <link>https://chao-peng.github.io/publication/sif/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/publication/sif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
       <link>https://chao-peng.github.io/publication/cltestcheck/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://chao-peng.github.io/publication/cltestcheck/</guid>
       <description></description>
