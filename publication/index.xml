@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>On the Correctness of GPU Programs</title>
+      <link>https://chao-peng.github.io/publication/isstads/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/publication/isstads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SIF: A Framework for Solidity Code Instrumentation and Analysis</title>
       <link>https://chao-peng.github.io/publication/sif/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0100</pubDate>

@@ -28,10 +28,15 @@
   
     
   
-  <meta name="description" content="PhD Candidate">
+  <meta name="description" content="Testing is an important and challenging part of software development and its effectiveness depends on the quality of test cases. However, there exists no means of measuring quality of tests developed for GPU programs and as a result, no test case generation techniques for GPU programs aiming at high test effectiveness. Existing criteria for sequential and threaded CPU programs cannot be directly applied to GPU programs as GPU follows a completely different memory and
+execution model. 
+
+We surveyed existing work on GPU program verification and bug fixes of open source GPU programs. Based on our findings, we define barrier, branch and loop coverage criteria and propose a set of mutation operators to measure fault finding capabilities of test cases. CLTestCheck, a framework for measuring quality of tests developed for GPU programs by code coverage analysis, fault seeding and work-group schedule amplification has been developed and evaluated using industry
+standard benchmarks. Experiments show that the framework is able to automatically measure test effectiveness and reveal unusual behaviours. Our planned work includes data flow coverage adopted for GPU programs to probe the underlying cause of unusual kernel behaviours and a more comprehensive work-group scheduler. We also plan to design and develop an automatic test case generator aiming at generating high quality test suites for GPU programs.
+">
 
   
-  <link rel="alternate" hreflang="en-uk" href="https://chao-peng.github.io/authors/">
+  <link rel="alternate" hreflang="en-uk" href="https://chao-peng.github.io/publication/isstads/">
 
   
 
@@ -98,15 +103,15 @@
   
 
   
-  <link rel="alternate" href="https://chao-peng.github.io/authors/index.xml" type="application/rss+xml" title="Chao Peng">
-  <link rel="feed" href="https://chao-peng.github.io/authors/index.xml" type="application/rss+xml" title="Chao Peng">
+  <link rel="alternate" href="https://chao-peng.github.io/index.xml" type="application/rss+xml" title="Chao Peng">
+  <link rel="feed" href="https://chao-peng.github.io/index.xml" type="application/rss+xml" title="Chao Peng">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://chao-peng.github.io/authors/">
+  <link rel="canonical" href="https://chao-peng.github.io/publication/isstads/">
 
   
   
@@ -118,19 +123,26 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Chao Peng">
-  <meta property="og:url" content="https://chao-peng.github.io/authors/">
-  <meta property="og:title" content="Authors | Chao Peng">
-  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="https://chao-peng.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://chao-peng.github.io/publication/isstads/">
+  <meta property="og:title" content="On the Correctness of GPU Programs | Chao Peng">
+  <meta property="og:description" content="Testing is an important and challenging part of software development and its effectiveness depends on the quality of test cases. However, there exists no means of measuring quality of tests developed for GPU programs and as a result, no test case generation techniques for GPU programs aiming at high test effectiveness. Existing criteria for sequential and threaded CPU programs cannot be directly applied to GPU programs as GPU follows a completely different memory and
+execution model. 
+
+We surveyed existing work on GPU program verification and bug fixes of open source GPU programs. Based on our findings, we define barrier, branch and loop coverage criteria and propose a set of mutation operators to measure fault finding capabilities of test cases. CLTestCheck, a framework for measuring quality of tests developed for GPU programs by code coverage analysis, fault seeding and work-group schedule amplification has been developed and evaluated using industry
+standard benchmarks. Experiments show that the framework is able to automatically measure test effectiveness and reveal unusual behaviours. Our planned work includes data flow coverage adopted for GPU programs to probe the underlying cause of unusual kernel behaviours and a more comprehensive work-group scheduler. We also plan to design and develop an automatic test case generator aiming at generating high quality test suites for GPU programs.
+"><meta property="og:image" content="https://chao-peng.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-uk">
   
-  <meta property="og:updated_time" content="2019-05-30T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2019-05-30T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2019-05-30T00:00:00&#43;01:00">
   
 
   
 
   
 
-  <title>Authors | Chao Peng</title>
+  <title>On the Correctness of GPU Programs | Chao Peng</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,8 +358,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -364,54 +377,248 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">On the Correctness of GPU Programs</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
+
+
+
+<meta content="2019-05-30 00:00:00 &#43;0100 BST" itemprop="datePublished">
+<meta content="2019-05-30 00:00:00 &#43;0100 BST" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
-
   
-</div>
-
-
-
-<div class="universal-wrapper">
   
-
-  <ul>
+  
+  <div>
     
-    
-      
-      
-      
-      
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
         
+
       
-    <li><a href="https://chao-peng.github.io/authors/chao-peng/">Chao Peng</a></li>
+      
+      <a href="">Chao Peng</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
     
       
-      
-      
-      
-        
-      
-    <li><a href="https://chao-peng.github.io/authors/ajitha-rajan/">Ajitha Rajan</a></li>
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://chao-peng.github.io/authors/admin/">admin</a></li>
+    <time>May 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
     
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=On%20the%20Correctness%20of%20GPU%20Programs&amp;url=https%3a%2f%2fchao-peng.github.io%2fpublication%2fisstads%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fchao-peng.github.io%2fpublication%2fisstads%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fchao-peng.github.io%2fpublication%2fisstads%2f&amp;title=On%20the%20Correctness%20of%20GPU%20Programs"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fchao-peng.github.io%2fpublication%2fisstads%2f&amp;title=On%20the%20Correctness%20of%20GPU%20Programs"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=On%20the%20Correctness%20of%20GPU%20Programs&amp;body=https%3a%2f%2fchao-peng.github.io%2fpublication%2fisstads%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   </ul>
+</div>
+
 
   
 
 </div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text"><p>Testing is an important and challenging part of software development and its effectiveness depends on the quality of test cases. However, there exists no means of measuring quality of tests developed for GPU programs and as a result, no test case generation techniques for GPU programs aiming at high test effectiveness. Existing criteria for sequential and threaded CPU programs cannot be directly applied to GPU programs as GPU follows a completely different memory and
+execution model.</p>
+
+<p>We surveyed existing work on GPU program verification and bug fixes of open source GPU programs. Based on our findings, we define barrier, branch and loop coverage criteria and propose a set of mutation operators to measure fault finding capabilities of test cases. CLTestCheck, a framework for measuring quality of tests developed for GPU programs by code coverage analysis, fault seeding and work-group schedule amplification has been developed and evaluated using industry
+standard benchmarks. Experiments show that the framework is able to automatically measure test effectiveness and reveal unusual behaviours. Our planned work includes data flow coverage adopted for GPU programs to probe the underlying cause of unusual kernel behaviours and a more comprehensive work-group scheduler. We also plan to design and develop an automatic test case generator aiming at generating high quality test suites for GPU programs.</p>
+</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In proceedings of <em>The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)</em> (To Appear in July 2019)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
@@ -467,6 +674,9 @@
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -484,6 +694,8 @@
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 

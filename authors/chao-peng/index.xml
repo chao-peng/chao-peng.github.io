@@ -6,10 +6,19 @@
     <description>Recent content on Chao Peng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://chao-peng.github.io/authors/chao-peng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Correctness of GPU Programs</title>
+      <link>https://chao-peng.github.io/publication/isstads/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/publication/isstads/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIF: A Framework for Solidity Code Instrumentation and Analysis</title>
