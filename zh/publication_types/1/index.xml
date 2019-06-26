@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on 彭超</title>
+    <link>https://chao-peng.github.io/zh/publication_types/1/</link>
+    <description>Recent content in 1 on 彭超</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://chao-peng.github.io/zh/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Correctness of GPU Programs</title>
+      <link>https://chao-peng.github.io/zh/publication/isstads/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/publication/isstads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
+      <link>https://chao-peng.github.io/zh/publication/cltestcheck/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/publication/cltestcheck/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

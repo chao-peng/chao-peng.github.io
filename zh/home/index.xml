@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on 彭超</title>
+    <link>https://chao-peng.github.io/zh/home/</link>
+    <description>Recent content in Homes on 彭超</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    
+	<atom:link href="https://chao-peng.github.io/zh/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://chao-peng.github.io/zh/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://chao-peng.github.io/zh/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>论文</title>
+      <link>https://chao-peng.github.io/zh/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://chao-peng.github.io/zh/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>会议</title>
+      <link>https://chao-peng.github.io/zh/home/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://chao-peng.github.io/zh/home/skills-old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/skills-old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教育</title>
+      <link>https://chao-peng.github.io/zh/home/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技能</title>
+      <link>https://chao-peng.github.io/zh/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/skills/</guid>
+      <description>编程语言 并行计算 语言 C/C++JavaPythonFortran OpenCLMPIOpenMPCUDA 汉语普通话 - 母语英语 - 精通德语 - 基本</description>
+    </item>
+    
+    <item>
+      <title>教学</title>
+      <link>https://chao-peng.github.io/zh/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/teaching/</guid>
+      <description>[助教，导师，阅卷] 软件测试。爱丁堡大学信息学院。2018年1月 - 2018年4月，2019年1月 - 2019年4月 [阅卷] 计算机编程技术与概念</description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://chao-peng.github.io/zh/home/publications_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/publications_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>获奖</title>
+      <link>https://chao-peng.github.io/zh/home/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/awards/</guid>
+      <description>奖学金 华为奖学金 (博士全额奖学金) 徐州工程学院优秀毕业生特等奖学金 2014/15年度国家奖学金 2013/14年度国家励志奖学金 2012/13</description>
+    </item>
+    
+    <item>
+      <title>课外与志愿活动</title>
+      <link>https://chao-peng.github.io/zh/home/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/extra/</guid>
+      <description>[2017年4月13日 - 2017年4月15日] 爱丁堡国际科技节“超级计算机可以做什么”活动讲解员和志愿者 [2013年9月 - 2014年9月] 第</description>
+    </item>
+    
+    <item>
+      <title>Featured Talks</title>
+      <link>https://chao-peng.github.io/zh/home/talks_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://chao-peng.github.io/zh/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://chao-peng.github.io/zh/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://chao-peng.github.io/zh/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://chao-peng.github.io/zh/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://chao-peng.github.io/zh/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chao-peng.github.io/zh/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chao-peng.github.io/zh/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
