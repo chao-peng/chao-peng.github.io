@@ -6,10 +6,28 @@
     <description>Recent content in 1 on Chao Peng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://chao-peng.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
+      <link>https://chao-peng.github.io/publication/sif/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/publication/sif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SolAnalyser: A Framework for Analysing and Testing Smart Contracts</title>
+      <link>https://chao-peng.github.io/publication/solanalyser/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://chao-peng.github.io/publication/solanalyser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Correctness of GPU Programs</title>

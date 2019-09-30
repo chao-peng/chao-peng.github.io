@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/publication_types/1/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/publication_types/1/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/publication_types/1/</loc>
+      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/authors/</loc>
+      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/chao-peng/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/chao-peng/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/authors/chao-peng/</loc>
+      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -9,6 +44,51 @@
     
       <loc>https://chao-peng.github.io/zh/publication/isstads/</loc>
       <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/publication_types/</loc>
+      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/</loc>
+      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chao-peng.github.io/zh/publication_types/3/</loc>
+      <lastmod>2019-06-26T13:02:04+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/ajitha-rajan/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/ajitha-rajan/" hreflang="en"/>
+    
+      <loc>https://chao-peng.github.io/zh/authors/ajitha-rajan/</loc>
+      <lastmod>2019-06-26T13:02:04+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -48,58 +128,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/publication_types/1/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/publication_types/1/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/publication_types/1/</loc>
-      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/publication_types/3/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/publication_types/3/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/publication_types/3/</loc>
-      <lastmod>2019-06-26T13:02:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/ajitha-rajan/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/ajitha-rajan/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/authors/ajitha-rajan/</loc>
-      <lastmod>2019-06-26T13:02:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/author/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="https://chao-peng.github.io/author/" hreflang="en"/>
     
       <loc>https://chao-peng.github.io/zh/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/authors/</loc>
-      <lastmod>2019-06-26T13:02:04+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,35 +150,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/authors/chao-peng/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/authors/chao-peng/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/authors/chao-peng/</loc>
-      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/post/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="https://chao-peng.github.io/post/" hreflang="en"/>
     
       <loc>https://chao-peng.github.io/zh/post/</loc>
       <lastmod>2019-06-26T13:02:04+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/publication_types/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/publication_types/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/publication_types/</loc>
-      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -191,18 +199,6 @@
     
       <loc>https://chao-peng.github.io/zh/authors/admin/</loc>
       <lastmod>2019-06-26T13:02:04+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/zh/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://chao-peng.github.io/" hreflang="en"/>
-    
-      <loc>https://chao-peng.github.io/zh/</loc>
-      <lastmod>2019-07-04T11:24:02+01:00</lastmod>
       <priority>0</priority>
     </url>
     
