@@ -54,7 +54,7 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chao-peng.github.io/home/news/</guid>
-      <description>28/10/2019 Joined Huawei London Research Centre as a Mobile GPU Intern mentored by Graham Connor, the Chief GPU Scientist. 30/09/2019 Our papers [SIF: A Framework for Solidity Contract Instrumentation and Analysis] and [SolAnalyser: A Framework for Analysing and Testing Smart Contracts] are accepted by APSEC 2019. 31/07/2019 We are excited to release SIF - a code analysis and instrumentation framework for Solidity smart contracts. 30/05/2019 My PhD research proposal On the Correctness of GPU programs is accepted by ISSTA 2019 Doctoral Symposium.</description>
+      <description>20/01/2020 Our paper Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving is accepted by PPoPP&amp;rsquo;s GPGPU Workshop 2020. 28/10/2019 Joined Huawei London Research Centre as a Mobile GPU Intern mentored by Graham Connor, the Chief GPU Scientist. 30/09/2019 Our papers SIF: A Framework for Solidity Contract Instrumentation and Analysis and SolAnalyser: A Framework for Analysing and Testing Smart Contracts are accepted by APSEC 2019. 31/07/2019 We are excited to release SIF - a code analysis and instrumentation framework for Solidity smart contracts.</description>
     </item>
     
     <item>
@@ -63,8 +63,8 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chao-peng.github.io/home/work/</guid>
-      <description>[28/10/2019 - In Progress] Huawei London Research Centre
- Position: Mobile GPU Intern Project: Micro benchmarking for mobile GPUs Mentor: Graham Connor (Chief GPU Scientist)  </description>
+      <description>[28/10/2019 - 28/02/2020] Huawei London Research Centre
+ Position: Mobile GPU Intern Project: Micro benchmarking for mobile GPUs Mentor: Graham Connor (Chief GPU Scientist) Final Appraisal: Excellent  </description>
     </item>
     
     <item>
@@ -145,7 +145,7 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chao-peng.github.io/home/skills/</guid>
-      <description>   Programming Languages Parallel Programming Languages     C/C++JavaPythonFortran OpenCLMPIOpenMPCUDA Mandarin Chinese - NativeEnglish - ProficientGerman - Basic    </description>
+      <description>   Programming Languages Technical Skills Languages     C/C++JavaPythonFortran OpenCLMPIOpenMPCUDAOpenGL (ES)Vulkan Mandarin Chinese - NativeEnglish - ProficientGerman - Basic    </description>
     </item>
     
     <item>
