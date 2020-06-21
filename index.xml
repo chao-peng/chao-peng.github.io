@@ -1,55 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chao Peng on Chao Peng</title>
-    <link>https://chao-peng.github.io/</link>
-    <description>Recent content in Chao Peng on Chao Peng</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Chao Peng</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao Peng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_2.png</url>
+      <title>Chao Peng</title>
+      <link>/</link>
+    </image>
     
     <item>
       <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
-      <link>https://chao-peng.github.io/publication/gpgpu/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chao-peng.github.io/publication/gpgpu/</guid>
+      <link>/publication/gpgpu/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/gpgpu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
-      <link>https://chao-peng.github.io/publication/sif/</link>
+      <link>/publication/sif/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://chao-peng.github.io/publication/sif/</guid>
+      <guid>/publication/sif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SolAnalyser: A Framework for Analysing and Testing Smart Contracts</title>
-      <link>https://chao-peng.github.io/publication/solanalyser/</link>
+      <link>/publication/solanalyser/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://chao-peng.github.io/publication/solanalyser/</guid>
+      <guid>/publication/solanalyser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Correctness of GPU Programs</title>
-      <link>https://chao-peng.github.io/publication/isstads/</link>
+      <link>/publication/isstads/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://chao-peng.github.io/publication/isstads/</guid>
+      <guid>/publication/isstads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
-      <link>https://chao-peng.github.io/publication/cltestcheck/</link>
+      <link>/publication/cltestcheck/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://chao-peng.github.io/publication/cltestcheck/</guid>
+      <guid>/publication/cltestcheck/</guid>
       <description></description>
     </item>
     

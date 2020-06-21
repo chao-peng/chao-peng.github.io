@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Chao Peng</title>
-    <link>https://chao-peng.github.io/post/</link>
-    <description>Recent content in Posts on Chao Peng</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    
-	<atom:link href="https://chao-peng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Posts | Chao Peng</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
     
   </channel>
 </rss>

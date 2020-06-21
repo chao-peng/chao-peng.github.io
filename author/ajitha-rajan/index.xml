@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajitha Rajan | Chao Peng</title>
+    <link>/author/ajitha-rajan/</link>
+      <atom:link href="/author/ajitha-rajan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ajitha Rajan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_2.png</url>
+      <title>Ajitha Rajan</title>
+      <link>/author/ajitha-rajan/</link>
+    </image>
+    
+    <item>
+      <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
+      <link>/publication/gpgpu/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
+      <link>/publication/sif/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/sif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SolAnalyser: A Framework for Analysing and Testing Smart Contracts</title>
+      <link>/publication/solanalyser/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/solanalyser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
+      <link>/publication/cltestcheck/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/cltestcheck/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
