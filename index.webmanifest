@@ -2,8 +2,8 @@
   "name": "Chao Peng",
   "short_name": "Chao Peng",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
