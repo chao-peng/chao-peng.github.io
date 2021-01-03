@@ -526,7 +526,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/chao-peng-cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/cv-chaopeng-en.pdf"><span>CV</span></a>
         </li>
 
         
@@ -548,7 +548,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/chao-peng-cv-zh.pdf"><span>简历</span></a>
+          <a class="nav-link " href="/cv-chaopeng-zh.pdf"><span>简历</span></a>
         </li>
 
         
@@ -772,9 +772,11 @@
 <p>His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is 
 <a href="http://homepages.inf.ed.ac.uk/arajan" target="_blank" rel="noopener">Dr. Ajitha Rajan</a>.</p>
 <p>Email:</p>
-<pre><code class="language-bash">domain=&quot;ed.ac.uk&quot;
-email=&quot;chao.peng@${domain}&quot;
+<pre><code class="language-c">printf(&quot;Email: %s%c%s\n&quot;, &quot;chao.peng&quot;, 0x40, &quot;ed.ac.uk&quot;);
+printf(&quot;Permanent Email: %s%c%s\n&quot;, &quot;xzchao93&quot;, 0x40, &quot;gmail.com&quot;);
 </code></pre>
+<p><button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
+<span id="display"></span></p>
 
 
     <div class="row">

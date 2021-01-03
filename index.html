@@ -542,7 +542,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/chao-peng-cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/cv-chaopeng-en.pdf"><span>CV</span></a>
         </li>
 
         
@@ -564,7 +564,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/chao-peng-cv-zh.pdf"><span>简历</span></a>
+          <a class="nav-link " href="/cv-chaopeng-zh.pdf"><span>简历</span></a>
         </li>
 
         
@@ -834,9 +834,11 @@
 <p>His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is 
 <a href="http://homepages.inf.ed.ac.uk/arajan" target="_blank" rel="noopener">Dr. Ajitha Rajan</a>.</p>
 <p>Email:</p>
-<pre><code class="language-bash">domain=&quot;ed.ac.uk&quot;
-email=&quot;chao.peng@${domain}&quot;
+<pre><code class="language-c">printf(&quot;Email: %s%c%s\n&quot;, &quot;chao.peng&quot;, 0x40, &quot;ed.ac.uk&quot;);
+printf(&quot;Permanent Email: %s%c%s\n&quot;, &quot;xzchao93&quot;, 0x40, &quot;gmail.com&quot;);
 </code></pre>
+<p><button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
+<span id="display"></span></p>
 
 
     <div class="row">
@@ -941,6 +943,8 @@ email=&quot;chao.peng@${domain}&quot;
     </div>
     <div class="col-12 col-lg-8">
       <ul>
+<li><strong>28 Dec 2020</strong> Started project with ByteDance on Android testing.</li>
+<li><strong>23 Nov 2020</strong> Started part-time programming language research intern at Huawei Edinburgh Research Centre mentored by Dan Ghica, the PL group lead.</li>
 <li><strong>20 Jan 2020</strong> Our paper <em>
 <a href="https://dl.acm.org/doi/abs/10.1145/3366428.3380768" target="_blank" rel="noopener">Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</a></em> is accepted by PPoPP’s GPGPU Workshop 2020.</li>
 <li><strong>28 Oct 2019</strong> Joined Huawei London Research Centre as a Mobile GPU Intern mentored by Graham Connor, the Chief GPU Scientist.</li>
