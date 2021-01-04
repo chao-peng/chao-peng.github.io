@@ -833,11 +833,15 @@
 <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">The University of Edinburgh</a>. He holds an MSc in High Performance Computing with Data Science from the University of Edinburgh and a BEng in Computer Science and Technology from Xuzhou University of Technology. During his MSc, he was a member of Team EPCC for the International Supercomputing Conference Student Cluster Competition.</p>
 <p>His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is 
 <a href="http://homepages.inf.ed.ac.uk/arajan" target="_blank" rel="noopener">Dr. Ajitha Rajan</a>.</p>
-<p>Email:</p>
-<pre><code class="language-c">printf(&quot;Email: %s%c%s\n&quot;, &quot;chao.peng&quot;, 0x40, &quot;ed.ac.uk&quot;);
-printf(&quot;Permanent Email: %s%c%s\n&quot;, &quot;xzchao93&quot;, 0x40, &quot;gmail.com&quot;);
-</code></pre>
-<p><button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
+<!--
+Email:
+```c
+printf("Email: %s%c%s\n", "chao.peng", 0x40, "ed.ac.uk");
+printf("Permanent Email: %s%c%s\n", "xzchao93", 0x40, "gmail.com");
+```
+<button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
+-->
+<p><button id='btnShowEmail' onclick="targetField = document.getElementById('display'); btnShowEmail = document.getElementById('btnShowEmail'); var userName1 = 'chao.peng', domain1 = 'ed.ac.uk', userName2 = 'xzchao93', domain2 = 'gmail.com'; var first=`Email: ${userName1}@${domain1}`;var second=`Permanent Email: ${userName2}@${domain2}`; targetField.innerHTML=first + '<br>' + second; btnShowEmail.style.display = 'none';">Show Email Addresses</button><br>
 <span id="display"></span></p>
 
 
@@ -1023,6 +1027,47 @@ printf(&quot;Permanent Email: %s%c%s\n&quot;, &quot;xzchao93&quot;, 0x40, &quot;
           <div class="col">&nbsp;</div>
         </div>
         <div class="m-2">
+          <span class="badge badge-pill border exp-fill">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Programming Language Research Intern</h4>
+            <h4 class="card-title exp-company text-muted my-0">Huawei Edinburgh Research Centre</h4>
+            <div class="text-muted exp-meta">
+              Nov 2020 –
+              
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>Edinburgh, UK</span>
+              
+            </div>
+            <div class="card-text"><ul>
+<li>Project: Testing and benchmarking for compilers</li>
+<li>Mentor: Dan Ghica (PL Group Lead)</li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
           <span class="badge badge-pill border ">&nbsp;</span>
         </div>
         <div class="row h-50">
@@ -1034,7 +1079,7 @@ printf(&quot;Permanent Email: %s%c%s\n&quot;, &quot;xzchao93&quot;, 0x40, &quot;
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Mobile GPU Intern</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Mobile GPU Research Intern</h4>
             <h4 class="card-title exp-company text-muted my-0">Huawei London Research Centre</h4>
             <div class="text-muted exp-meta">
               Oct 2019 –
