@@ -4,32 +4,72 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/ajitha-rajan/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/android/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-02-03T12:15:13+00:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cat/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chao-peng/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/graphical-user-interface/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/program-analysis/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tianqin-cai/</loc>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/gpgpu/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/chao-peng/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-03T12:15:13+00:00</lastmod>
   </url>
   
   <url>
@@ -58,83 +98,63 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software-testing/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/test-case-generation/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/assertions/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/blockchain/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/code-instrumentation/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/fault-seeding/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/high-level-languages/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/program-analysis/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/sefa-akca/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/sif/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/smart-contract/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/solanalyser/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/static-analysis/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/testing/</loc>
-    <lastmod>2020-08-11T22:22:10+01:00</lastmod>
+    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url>
   
   <url>

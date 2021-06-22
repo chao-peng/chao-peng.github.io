@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>CAT: Change-focused Android GUI Testing</title>
+      <link>/publication/cat/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
+      <guid>/publication/cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
       <link>/publication/gpgpu/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>

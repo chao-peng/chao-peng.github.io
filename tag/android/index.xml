@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Program Analysis | Chao Peng</title>
-    <link>/tag/program-analysis/</link>
-      <atom:link href="/tag/program-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Program Analysis</description>
+    <title>Android | Chao Peng</title>
+    <link>/tag/android/</link>
+      <atom:link href="/tag/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>Android</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_2.png</url>
-      <title>Program Analysis</title>
-      <link>/tag/program-analysis/</link>
+      <title>Android</title>
+      <link>/tag/android/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/cat/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
       <guid>/publication/cat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
-      <link>/publication/sif/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/sif/</guid>
       <description></description>
     </item>
     
