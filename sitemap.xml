@@ -1,145 +1,254 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/ajitha-rajan/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+<<<<<<< HEAD
     <lastmod>2021-10-18T14:24:00+08:00</lastmod>
   </url><url>
+=======
+    <lastmod>2021-08-16T19:58:40+08:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> 18bbb190c8efc5bef9db8cedf6037817a9dc2835
     <loc>/author/chao-peng/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
+<<<<<<< HEAD
     <lastmod>2021-10-18T14:24:00+08:00</lastmod>
   </url><url>
+=======
+    <lastmod>2021-08-16T19:58:40+08:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> 18bbb190c8efc5bef9db8cedf6037817a9dc2835
     <loc>/tag/ethereum/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/fault-seeding/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/fuzzing/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/genetic-algorithm/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/sefa-akca/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/smart-contract/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/smt-solving/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/software-testing/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/test-generation/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/esem21/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/android/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/cat/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/graphical-user-interface/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/program-analysis/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/tianqin-cai/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/gpgpu/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/constraint-solving/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/data-race/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/fuzz-testing/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/gpu/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/opencl/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/test-case-generation/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/assertions/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/blockchain/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/code-instrumentation/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/high-level-languages/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/sif/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/solanalyser/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/static-analysis/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/testing/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/code-coverage/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/fault-finding/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/isstads/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/cltestcheck/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tag/mutation-testing/</loc>
     <lastmod>2020-08-11T22:22:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/chao-peng/</loc>
+<<<<<<< HEAD
     <lastmod>2021-10-18T14:24:00+08:00</lastmod>
   </url><url>
+=======
+    <lastmod>2021-07-15T15:21:30+08:00</lastmod>
+  </url>
+  
+  <url>
+>>>>>>> 18bbb190c8efc5bef9db8cedf6037817a9dc2835
     <loc>/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
+  
 </urlset>
