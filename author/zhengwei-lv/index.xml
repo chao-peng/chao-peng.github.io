@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graphical User Interface | Chao Peng</title>
-    <link>/tag/graphical-user-interface/</link>
-      <atom:link href="/tag/graphical-user-interface/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graphical User Interface</description>
+    <title>Zhengwei Lv | Chao Peng</title>
+    <link>/author/zhengwei-lv/</link>
+      <atom:link href="/author/zhengwei-lv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhengwei Lv</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
-      <title>Graphical User Interface</title>
-      <link>/tag/graphical-user-interface/</link>
+      <title>Zhengwei Lv</title>
+      <link>/author/zhengwei-lv/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/mubot/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
       <guid>/publication/mubot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAT: Change-focused Android GUI Testing</title>
-      <link>/publication/cat/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
-      <guid>/publication/cat/</guid>
       <description></description>
     </item>
     

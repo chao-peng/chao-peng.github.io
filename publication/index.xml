@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Automated Server Testing: an Industrial Experience Report</title>
+      <link>/publication/sit/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
+      <guid>/publication/sit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
+      <link>/publication/mubot/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
+      <guid>/publication/mubot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing Smart Contracts: Which Technique Performs Best?</title>
       <link>/publication/esem21/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
