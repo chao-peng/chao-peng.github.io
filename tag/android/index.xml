@@ -5,20 +5,12 @@
     <link>/tag/android/</link>
       <atom:link href="/tag/android/index.xml" rel="self" type="application/rss+xml" />
     <description>Android</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Android</title>
       <link>/tag/android/</link>
     </image>
-    
-    <item>
-      <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
-      <link>/publication/mubot/</link>
-      <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>/publication/mubot/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CAT: Change-focused Android GUI Testing</title>

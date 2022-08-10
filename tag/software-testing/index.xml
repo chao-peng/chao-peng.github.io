@@ -5,7 +5,7 @@
     <link>/tag/software-testing/</link>
       <atom:link href="/tag/software-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Testing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Software Testing</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Automated Server Testing: an Industrial Experience Report</title>
-      <link>/publication/sit/</link>
-      <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>/publication/sit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
-      <link>/publication/mubot/</link>
-      <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>/publication/mubot/</guid>
+      <title>Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning</title>
+      <link>/publication/fastbot2/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>/publication/fastbot2/</guid>
       <description></description>
     </item>
     
