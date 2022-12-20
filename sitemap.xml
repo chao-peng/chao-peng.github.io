@@ -2,71 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/tag/android-apps/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/chao-peng/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
-    <loc>/publication/fastbot2/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <loc>/publication/tse22/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/tag/empirical-study/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/author/geguang-pu/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/tag/gui-testing/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/author/jingling-sun/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/kai-liu/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
-  </url><url>
-    <loc>/author/ping-yang/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
-    <loc>/tag/software-testing/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <loc>/tag/static-analysis/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/tag/system-settings/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/author/tao-xie/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/ting-su/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/zhao-zhang/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhendong-su/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/publication/fastbot2/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/author/ping-yang/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
+  </url><url>
+    <loc>/tag/software-testing/</loc>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/zhengwei-lv/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/android-testing/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/publication/sit/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/automated-testing/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/deep-learning/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/graphical-user-interface/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/publication/mubot/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/server-testing/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/tag/traffic-record-and-replay/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/yujun-gao/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/author/ajitha-rajan/</loc>
     <lastmod>2021-08-16T19:58:40+08:00</lastmod>
@@ -149,9 +182,6 @@
     <loc>/publication/solanalyser/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url><url>
-    <loc>/tag/static-analysis/</loc>
-    <lastmod>2021-06-22T15:11:27+08:00</lastmod>
-  </url><url>
     <loc>/tag/testing/</loc>
     <lastmod>2021-06-22T15:11:27+08:00</lastmod>
   </url><url>
@@ -173,7 +203,7 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/author/chao-peng/</loc>
-    <lastmod>2022-08-10T20:25:34+08:00</lastmod>
+    <lastmod>2022-12-20T17:12:02+08:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
