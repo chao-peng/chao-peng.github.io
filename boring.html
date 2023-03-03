@@ -51,6 +51,12 @@
         }
     </style>
     <script>
+
+        arr = ["好的", "知道了", "收到", "嗯", "噢", "哦", "呵呵"];
+        function getMsg() {
+            var i = Math.floor(Math.random() * arr.length);
+            return arr[i];
+        }
         function send() {
             // Create a new Date object for the current datetime
             const now = new Date();
@@ -69,7 +75,8 @@
             msg = document.getElementById("message").value;
             if (msg != null && msg != "") {
                 area = document.getElementById("area");
-                area.innerHTML += "<p>" + "我 [" + datetimeString + "] <br>" + msg + "</p>";
+                area.innerHTML += "<p>" + "<b>我</b> [" + datetimeString + "] <br>" + msg + "</p>";
+                area.innerHTML += "<p>" + "<b>兰博</b> [" + datetimeString + "] <br> " + getMsg() + "</p>";
                 msg = document.getElementById("message").value = "";
                 msg = document.getElementById("message").focus();
             }
