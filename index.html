@@ -245,7 +245,7 @@
   <meta property="og:description" content="Senior Researcher"><meta property="og:image" content="/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-12-19T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2023-06-14T00:00:00&#43;01:00">
   
 
   
@@ -404,7 +404,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/#featured" data-target="#featured"><span>Featured Publications</span></a>
         </li>
 
         
@@ -683,7 +683,7 @@
         
         <h3>
           <a href="https://se-research.bytedance.com" target="_blank" rel="noopener">
-          <span>App Infra Research Center</span>
+          <span>Software Engineering Lab, Dev Infra Research Center</span>
           </a>
         </h3>
         
@@ -812,7 +812,8 @@ I received my PhD degree from
 <a href="http://wcms.inf.ed.ac.uk/lfcs" target="_blank" rel="noopener">Laboratory for Foundations of Computer Science (LFCS)</a>, 
 <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">The University of Edinburgh</a> under supervision of 
 <a href="http://homepages.inf.ed.ac.uk/arajan" target="_blank" rel="noopener">Dr. Ajitha Rajan</a>.</p>
-<p>At ByteDance, I am on the App Infra Research Center. My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for department-wide academic development and university collaboration.</p>
+<p>At ByteDance, I am on the 
+<a href="https://se-research.bytedance.com" target="_blank" rel="noopener">Software Engineering Lab, Dev Infra Research Center</a>. My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.</p>
 <p>I am passionate about building practical software testing, analysis, and debugging systems to predict, detect, diagnose, and fix bugs for all kinds of software systems.</p>
 <p>Outside of work, I enjoy going to the gym.</p>
 <!--
@@ -929,13 +930,19 @@ email=${prefix}@${domain}.org
     </div>
     <div class="col-12 col-lg-8">
       <ul>
+<li><strong>28 Apr 2023</strong> Our paper <em>
+<a href="">NxtUnit: Automated Unit Test Generation for Go</a></em> is accepted by the industry track of EASE.</li>
 <li><strong>19 Dec 2022</strong> Our paper <em>
 <a href="publication/tse22/">Characterizing and Finding SystemSetting-Related Defects in Android Apps</a></em> is accepted by TSE.</li>
+<li><strong>29 Sep 2022</strong> Invited to give a talk on Mobile app testing at ECNU.</li>
 <li><strong>8 Aug 2022</strong> Our paper <em>
 <a href="publication/fastbot2/">Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning</a></em> is accepted by the Industry Track of ASE 2022.</li>
 <li><strong>22 Jun 2022</strong> Our papers <em>
 <a href="publication/mubot/">MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</a></em> and <em>
 <a href="publication/sit/">Automated Server Testing: an Industrial Experience Report</a></em> are accepted by the Industry Track of ICSME 2022.</li>
+</ul>
+<div style="display:none" id="more_news">
+<ul>
 <li><strong>05 Jul 2021</strong> Joined ByteDance as a Tech Expert / Senior Researcher within the Quality Lab</li>
 <li><strong>30 Jun 2021</strong> Our paper <em>
 <a href="https://dl.acm.org/doi/10.1145/3475716.3475779" target="_blank" rel="noopener">Testing Smart Contracts: Which Technique Performs Best?</a></em> is accepted by ESEM 2021.</li>
@@ -958,6 +965,21 @@ email=${prefix}@${domain}.org
 <li><strong>01 Sep 2017</strong> Started my PhD at University of Edinburgh with Dr. Ajitha Rajan fully funded by School of Informatics Scholarship.</li>
 <li><strong>17 Nov 2016</strong> Our Team EPCC selected to participate in the final round of the ISC Student Cluster Competition.</li>
 </ul>
+</div>
+<script>
+    function handleNews() {
+        button_more = document.getElementById("button_more");
+        news = document.getElementById("more_news");
+        if (button_more.innerHTML == "More..") {
+            button_more.innerHTML = "Hide";
+            news.style.display="block";
+        } else {
+            button_more.innerHTML = "More..";
+            news.style.display="none";
+        }
+    }
+</script>
+<u><a onclick="handleNews()" id="button_more">More..</a></u>
 
     </div>
   
@@ -1206,7 +1228,7 @@ email=${prefix}@${domain}.org
   
   
 
-  <section id="publications" class="home-section wg-pages   "  >
+  <section id="featured" class="home-section wg-featured   "  >
     <div class="container">
       
 
@@ -1217,7 +1239,6 @@ email=${prefix}@${domain}.org
 
 
 
-  
 
 
 
@@ -1233,16 +1254,6 @@ email=${prefix}@${domain}.org
 
 
 
-
-
-
-
-
-
-
-
-
-  
 
 
 
@@ -1253,7 +1264,7 @@ email=${prefix}@${domain}.org
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Publications</h1>
+    <h1>Featured Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -1398,313 +1409,6 @@ email=${prefix}@${domain}.org
     
 
   
-  <span >Chao Peng</span>, <span >Yujun Gao</span>, <span >Ping Yang</span>
-  </span>
-  (2022).
-  <a href="/publication/sit/">Automated Server Testing: an Industrial Experience Report</a>.
-  In proceedings of ICSME 2022.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/ICSME22A.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Chao Peng</span>, <span >Zhao Zhang</span>, <span >Zhengwei Lv</span>, <span >Ping Yang</span>
-  </span>
-  (2022).
-  <a href="/publication/mubot/">MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</a>.
-  In proceedings of ICSME 2022.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/ICSME22B.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Sefa Akca</span>, <span >Chao Peng</span>, <span >Ajitha Rajan</span>
-  </span>
-  (2021).
-  <a href="/publication/esem21/">Testing Smart Contracts: Which Technique Performs Best?</a>.
-  In proceedings of ESEM 2021.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/ESEM21.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Chao Peng</span>, <span >Ajitha Rajan</span>, <span >Tianqin Cai</span>
-  </span>
-  (2021).
-  <a href="/publication/cat/">CAT: Change-focused Android GUI Testing</a>.
-  In proceedings of ICSME 2021.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/ICSME21.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Chao Peng</span>, <span >Ajitha Rajan</span>
-  </span>
-  (2020).
-  <a href="/publication/gpgpu/">Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</a>.
-  In proceedings of GPGPU 2020 (workshop of PPoPP 2020).
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/GPGPU20.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/chao-peng/CLFuzz" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3366428.3380768" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
   <span >Chao Peng</span>, <span >Sefa Akca</span>, <span >Ajitha Rajan</span>
   </span>
   (2019).
@@ -1753,132 +1457,6 @@ email=${prefix}@${domain}.org
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/APSEC48747.2019.00069" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Sefa Akca</span>, <span >Ajitha Rajan</span>, <span >Chao Peng</span>
-  </span>
-  (2019).
-  <a href="/publication/solanalyser/">SolAnalyser: A Framework for Analysing and Testing Smart Contracts</a>.
-  In proceedings of APSEC 2019.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/solanalyser.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/APSEC48747.2019.00071" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Chao Peng</span>
-  </span>
-  (2019).
-  <a href="/publication/isstads/">On the Correctness of GPU Programs</a>.
-  In proceedings of ISSTA 2019.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/ISSTA20DS.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3293882.3338989" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1971,7 +1549,14 @@ email=${prefix}@${domain}.org
       
     
 
-    
+  
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
 
   </div>
 </div>
