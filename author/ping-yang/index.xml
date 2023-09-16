@@ -5,12 +5,28 @@
     <link>/author/ping-yang/</link>
       <atom:link href="/author/ping-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ping Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Ping Yang</title>
       <link>/author/ping-yang/</link>
     </image>
+    
+    <item>
+      <title>AG3: Automated Game GUI Text Glitch Detection based on Computer Vision</title>
+      <link>/publication/ag3/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>/publication/ag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration</title>
+      <link>/publication/gopie/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>/publication/gopie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning</title>

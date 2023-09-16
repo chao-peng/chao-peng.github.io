@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>AG3: Automated Game GUI Text Glitch Detection based on Computer Vision</title>
+      <link>/publication/ag3/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>/publication/ag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration</title>
+      <link>/publication/gopie/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>/publication/gopie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NxtUnit: Automated Unit Test Generation for Go</title>
       <link>/publication/nxtunit/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0100</pubDate>
