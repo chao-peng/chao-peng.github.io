@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning</title>
+      <link>/publication/hawkeye/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0100</pubDate>
+      <guid>/publication/hawkeye/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AG3: Automated Game GUI Text Glitch Detection based on Computer Vision</title>
