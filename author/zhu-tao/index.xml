@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhu Tao | Chao Peng</title>
+    <link>/author/zhu-tao/</link>
+      <atom:link href="/author/zhu-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhu Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhu Tao</title>
+      <link>/author/zhu-tao/</link>
+    </image>
+    
+    <item>
+      <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
+      <link>/publication/neat/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
+      <guid>/publication/neat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
