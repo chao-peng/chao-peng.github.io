@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android Testing | Chao Peng</title>
-    <link>/tag/android-testing/</link>
-      <atom:link href="/tag/android-testing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/android-testing/</link>
+      <atom:link href="https://chao-peng.github.io/tag/android-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Android Testing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Android Testing</title>
-      <link>/tag/android-testing/</link>
+      <link>https://chao-peng.github.io/tag/android-testing/</link>
     </image>
     
     <item>
       <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
-      <link>/publication/mubot/</link>
+      <link>https://chao-peng.github.io/publication/icsme22b/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>/publication/mubot/</guid>
+      <guid>https://chao-peng.github.io/publication/icsme22b/</guid>
       <description></description>
     </item>
     

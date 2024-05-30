@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>System Settings | Chao Peng</title>
-    <link>/tag/system-settings/</link>
-      <atom:link href="/tag/system-settings/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/system-settings/</link>
+      <atom:link href="https://chao-peng.github.io/tag/system-settings/index.xml" rel="self" type="application/rss+xml" />
     <description>System Settings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>System Settings</title>
-      <link>/tag/system-settings/</link>
+      <link>https://chao-peng.github.io/tag/system-settings/</link>
     </image>
     
     <item>
       <title>Characterizing and Finding System Setting-Related Defects in Android Apps</title>
-      <link>/publication/tse22/</link>
+      <link>https://chao-peng.github.io/publication/tse22/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>/publication/tse22/</guid>
+      <guid>https://chao-peng.github.io/publication/tse22/</guid>
       <description></description>
     </item>
     

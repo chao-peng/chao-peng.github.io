@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI4SE | Chao Peng</title>
-    <link>/tag/ai4se/</link>
-      <atom:link href="/tag/ai4se/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/ai4se/</link>
+      <atom:link href="https://chao-peng.github.io/tag/ai4se/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4SE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>AI4SE</title>
-      <link>/tag/ai4se/</link>
+      <link>https://chao-peng.github.io/tag/ai4se/</link>
     </image>
     
     <item>
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
-      <link>/publication/neat/</link>
+      <link>https://chao-peng.github.io/publication/fse24/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
-      <guid>/publication/neat/</guid>
+      <guid>https://chao-peng.github.io/publication/fse24/</guid>
       <description></description>
     </item>
     
