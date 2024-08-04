@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
+      <link>https://chao-peng.github.io/publication/ase24nier/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase24nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
       <link>https://chao-peng.github.io/publication/fse24/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
@@ -375,7 +383,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-821359476&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-894315276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -385,7 +393,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-821359476&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-894315276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
