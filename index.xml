@@ -33,7 +33,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production</title>
       <link>https://chao-peng.github.io/publication/icse25seip/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0100</pubDate>
@@ -98,8 +97,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 029ebf544920f8d8c960057a440f87e0b8bc8507
       <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
       <link>https://chao-peng.github.io/publication/ase24nier/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
@@ -108,7 +105,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
       <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
@@ -125,8 +121,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 029ebf544920f8d8c960057a440f87e0b8bc8507
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
       <link>https://chao-peng.github.io/publication/fse24/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
@@ -469,11 +463,7 @@ data.head()
 
 
 
-<<<<<<< HEAD
-&lt;div id=&#34;chart-387956412&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-=======
-&lt;div id=&#34;chart-894315276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
->>>>>>> 029ebf544920f8d8c960057a440f87e0b8bc8507
+&lt;div id=&#34;chart-285716394&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -483,11 +473,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-<<<<<<< HEAD
-        Plotly.plot(&#39;chart-387956412&#39;, chart.data, chart.layout, {responsive: true});
-=======
-        Plotly.plot(&#39;chart-894315276&#39;, chart.data, chart.layout, {responsive: true});
->>>>>>> 029ebf544920f8d8c960057a440f87e0b8bc8507
+        Plotly.plot(&#39;chart-285716394&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
