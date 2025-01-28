@@ -5,12 +5,100 @@
     <link>https://chao-peng.github.io/publication/</link>
       <atom:link href="https://chao-peng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://chao-peng.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production</title>
+      <link>https://chao-peng.github.io/publication/icse25seip/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/icse25seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
+      <link>https://chao-peng.github.io/publication/coling25/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/coling25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering</title>
+      <link>https://chao-peng.github.io/publication/arxiv24coreqa/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24coreqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
+      <link>https://chao-peng.github.io/publication/arxiv24gooracle/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24gooracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models</title>
+      <link>https://chao-peng.github.io/publication/arxiv24benchmark/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
+      <link>https://chao-peng.github.io/publication/arxiv24aegis/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24aegis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextModule: Improving Code Completion via Repository-level Contextual Information</title>
+      <link>https://chao-peng.github.io/publication/arxiv24contextmodule/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24contextmodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
+      <link>https://chao-peng.github.io/publication/ase24nier/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase24nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24marscodeagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepoMasterEval: Evaluating Code Completion via Real-World Repositories</title>
+      <link>https://chao-peng.github.io/publication/arxiv24repomastereval/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24repomastereval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>

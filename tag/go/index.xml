@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go | Chao Peng</title>
+    <link>https://chao-peng.github.io/tag/go/</link>
+      <atom:link href="https://chao-peng.github.io/tag/go/index.xml" rel="self" type="application/rss+xml" />
+    <description>Go</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <title>Go</title>
+      <link>https://chao-peng.github.io/tag/go/</link>
+    </image>
+    
+    <item>
+      <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
+      <link>https://chao-peng.github.io/publication/arxiv24gooracle/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24gooracle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

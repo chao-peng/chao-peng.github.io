@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Models | Chao Peng</title>
+    <link>https://chao-peng.github.io/tag/large-language-models/</link>
+      <atom:link href="https://chao-peng.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <title>Large Language Models</title>
+      <link>https://chao-peng.github.io/tag/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models</title>
+      <link>https://chao-peng.github.io/publication/arxiv24benchmark/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
+      <link>https://chao-peng.github.io/publication/arxiv24aegis/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24aegis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextModule: Improving Code Completion via Repository-level Contextual Information</title>
+      <link>https://chao-peng.github.io/publication/arxiv24contextmodule/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24contextmodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24marscodeagent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

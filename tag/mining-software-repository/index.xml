@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mining Software Repository | Chao Peng</title>
+    <link>https://chao-peng.github.io/tag/mining-software-repository/</link>
+      <atom:link href="https://chao-peng.github.io/tag/mining-software-repository/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mining Software Repository</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <title>Mining Software Repository</title>
+      <link>https://chao-peng.github.io/tag/mining-software-repository/</link>
+    </image>
+    
+    <item>
+      <title>A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models</title>
+      <link>https://chao-peng.github.io/publication/arxiv24benchmark/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24benchmark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
