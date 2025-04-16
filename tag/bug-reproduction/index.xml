@@ -5,12 +5,20 @@
     <link>https://chao-peng.github.io/tag/bug-reproduction/</link>
       <atom:link href="https://chao-peng.github.io/tag/bug-reproduction/index.xml" rel="self" type="application/rss+xml" />
     <description>Bug Reproduction</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Bug Reproduction</title>
       <link>https://chao-peng.github.io/tag/bug-reproduction/</link>
     </image>
+    
+    <item>
+      <title>An LLM-based Agent for Reliable Docker Environment Configuration</title>
+      <link>https://chao-peng.github.io/publication/arxiv24repo2run/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24repo2run/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>

@@ -42,6 +42,42 @@
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://chao-peng.github.io/tag/agents/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/tag/fault-localisation/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/tag/issue-resolving/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/tag/large-language-models/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/publication-type/preprint/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/publication/arxiv24sorft/</loc>
+    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/publication/arxiv24repo2run/</loc>
+    <lastmod>2025-02-19T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chao-peng.github.io/tag/bug-reproduction/</loc>
+    <lastmod>2025-02-19T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://chao-peng.github.io/tag/benchmark/</loc>
     <lastmod>2025-01-21T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,10 +103,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chao-peng.github.io/publication/arxiv24coreqa/</loc>
-    <lastmod>2025-01-07T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/publication-type/preprint/</loc>
     <lastmod>2025-01-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,14 +138,6 @@
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/agents/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/bug-reproduction/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://chao-peng.github.io/tag/code-completion/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,10 +147,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chao-peng.github.io/publication/arxiv24contextmodule/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/large-language-models/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
