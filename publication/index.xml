@@ -22,9 +22,17 @@
     
     <item>
       <title>SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning</title>
-      <link>https://chao-peng.github.io/publication/arxiv24sorft/</link>
+      <link>https://chao-peng.github.io/publication/acl25/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24sorft/</guid>
+      <guid>https://chao-peng.github.io/publication/acl25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark</title>
+      <link>https://chao-peng.github.io/publication/sigir25short/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/sigir25short/</guid>
       <description></description>
     </item>
     
@@ -54,9 +62,9 @@
     
     <item>
       <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
-      <link>https://chao-peng.github.io/publication/arxiv24gooracle/</link>
+      <link>https://chao-peng.github.io/publication/esem25/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24gooracle/</guid>
+      <guid>https://chao-peng.github.io/publication/esem25/</guid>
       <description></description>
     </item>
     
@@ -70,9 +78,9 @@
     
     <item>
       <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
-      <link>https://chao-peng.github.io/publication/arxiv24aegis/</link>
+      <link>https://chao-peng.github.io/publication/fse25industry/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24aegis/</guid>
+      <guid>https://chao-peng.github.io/publication/fse25industry/</guid>
       <description></description>
     </item>
     
