@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Empirical Study | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/empirical-study/</link>
-      <atom:link href="https://chao-peng.github.io/tag/empirical-study/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/empirical-study/</link>
+      <atom:link href="http://localhost:1313/tag/empirical-study/index.xml" rel="self" type="application/rss+xml" />
     <description>Empirical Study</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Empirical Study</title>
-      <link>https://chao-peng.github.io/tag/empirical-study/</link>
+      <link>http://localhost:1313/tag/empirical-study/</link>
     </image>
     
     <item>
       <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
-      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
+      <link>http://localhost:1313/publication/arxiv24empirical/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
+      <guid>http://localhost:1313/publication/arxiv24empirical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing and Finding System Setting-Related Defects in Android Apps</title>
-      <link>https://chao-peng.github.io/publication/tse22/</link>
+      <link>http://localhost:1313/publication/tse22/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/tse22/</guid>
+      <guid>http://localhost:1313/publication/tse22/</guid>
       <description></description>
     </item>
     

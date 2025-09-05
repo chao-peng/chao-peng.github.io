@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Case Generation | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/test-case-generation/</link>
-      <atom:link href="https://chao-peng.github.io/tag/test-case-generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/test-case-generation/</link>
+      <atom:link href="http://localhost:1313/tag/test-case-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Test Case Generation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Test Case Generation</title>
-      <link>https://chao-peng.github.io/tag/test-case-generation/</link>
+      <link>http://localhost:1313/tag/test-case-generation/</link>
     </image>
     
     <item>
       <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
-      <link>https://chao-peng.github.io/publication/gpgpu20/</link>
+      <link>http://localhost:1313/publication/gpgpu20/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/gpgpu20/</guid>
+      <guid>http://localhost:1313/publication/gpgpu20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Correctness of GPU Programs</title>
-      <link>https://chao-peng.github.io/publication/issta19ds/</link>
+      <link>http://localhost:1313/publication/issta19ds/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/issta19ds/</guid>
+      <guid>http://localhost:1313/publication/issta19ds/</guid>
       <description></description>
     </item>
     

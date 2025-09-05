@@ -2,483 +2,487 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chao-peng.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:1313/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-question-answering/</loc>
+    <loc>http://localhost:1313/tag/agents/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/automated-program-repair/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/bug-fixing/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/large-language-models/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/preprint/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/arxiv25traeagent/</loc>
+    <lastmod>2025-08-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/code-question-answering/</loc>
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/data-production/</loc>
+    <loc>http://localhost:1313/tag/data-production/</loc>
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/icse25seip/</loc>
+    <loc>http://localhost:1313/publication/icse25seip/</loc>
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/llm/</loc>
+    <loc>http://localhost:1313/tag/llm/</loc>
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
     <lastmod>2025-04-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication_types/</loc>
-    <lastmod>2025-04-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/publication/</loc>
-    <lastmod>2025-04-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tags/</loc>
-    <lastmod>2025-04-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/agents/</loc>
+    <loc>http://localhost:1313/tag/benchmarks/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/benchmarks/</loc>
+    <loc>http://localhost:1313/tag/datasets/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/datasets/</loc>
+    <loc>http://localhost:1313/tag/evaluation/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/evaluation/</loc>
+    <loc>http://localhost:1313/tag/fault-localisation/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/fault-localisation/</loc>
+    <loc>http://localhost:1313/tag/issue-resolving/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/issue-resolving/</loc>
+    <loc>http://localhost:1313/tag/reinforcement-learning/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/large-language-models/</loc>
+    <loc>http://localhost:1313/publication/acl25/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/reinforcement-learning/</loc>
+    <loc>http://localhost:1313/publication/sigir25short/</loc>
     <lastmod>2025-02-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/acl25/</loc>
-    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/publication/sigir25short/</loc>
-    <lastmod>2025-02-27T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24repo2run/</loc>
+    <loc>http://localhost:1313/publication/arxiv24repo2run/</loc>
     <lastmod>2025-02-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/bug-reproduction/</loc>
+    <loc>http://localhost:1313/tag/bug-reproduction/</loc>
     <lastmod>2025-02-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication-type/preprint/</loc>
-    <lastmod>2025-02-19T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/benchmark/</loc>
+    <loc>http://localhost:1313/tag/benchmark/</loc>
     <lastmod>2025-01-21T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-generation/</loc>
+    <loc>http://localhost:1313/tag/code-generation/</loc>
     <lastmod>2025-01-21T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/coling25/</loc>
+    <loc>http://localhost:1313/publication/coling25/</loc>
     <lastmod>2025-01-21T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/software-engineering/</loc>
+    <loc>http://localhost:1313/tag/software-engineering/</loc>
     <lastmod>2025-01-21T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-benchmark/</loc>
+    <loc>http://localhost:1313/tag/code-benchmark/</loc>
     <lastmod>2025-01-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24coreqa/</loc>
+    <loc>http://localhost:1313/publication/arxiv24coreqa/</loc>
     <lastmod>2025-01-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/repository-level-dataset/</loc>
+    <loc>http://localhost:1313/tag/repository-level-dataset/</loc>
     <lastmod>2025-01-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/concurrency/</loc>
+    <loc>http://localhost:1313/tag/concurrency/</loc>
     <lastmod>2024-12-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/go/</loc>
+    <loc>http://localhost:1313/tag/go/</loc>
     <lastmod>2024-12-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/esem25/</loc>
+    <loc>http://localhost:1313/publication/esem25/</loc>
     <lastmod>2024-12-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/neural-network/</loc>
+    <loc>http://localhost:1313/tag/neural-network/</loc>
     <lastmod>2024-12-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/test-oracle/</loc>
+    <loc>http://localhost:1313/tag/test-oracle/</loc>
     <lastmod>2024-12-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24benchmark/</loc>
+    <loc>http://localhost:1313/publication/arxiv24benchmark/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/fse25industry/</loc>
+    <loc>http://localhost:1313/publication/fse25industry/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-completion/</loc>
+    <loc>http://localhost:1313/tag/code-completion/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-knowledge-graph/</loc>
+    <loc>http://localhost:1313/tag/code-knowledge-graph/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24contextmodule/</loc>
+    <loc>http://localhost:1313/publication/arxiv24contextmodule/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/mining-software-repository/</loc>
+    <loc>http://localhost:1313/tag/mining-software-repository/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/repository-context/</loc>
+    <loc>http://localhost:1313/tag/repository-context/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24empirical/</loc>
+    <loc>http://localhost:1313/publication/arxiv24empirical/</loc>
     <lastmod>2024-11-15T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/bug-fixing/</loc>
+    <loc>http://localhost:1313/tag/empirical-study/</loc>
     <lastmod>2024-11-15T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/empirical-study/</loc>
-    <lastmod>2024-11-15T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/ai4se/</loc>
+    <loc>http://localhost:1313/tag/ai4se/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/llm4code/</loc>
+    <loc>http://localhost:1313/tag/llm4code/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/ase24nier/</loc>
+    <loc>http://localhost:1313/publication/ase24nier/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/software-testing/</loc>
+    <loc>http://localhost:1313/tag/software-testing/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/automated-program-repair/</loc>
+    <loc>http://localhost:1313/publication/arxiv24marscodeagent/</loc>
     <lastmod>2024-09-04T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24marscodeagent/</loc>
-    <lastmod>2024-09-04T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chao-peng.github.io/tag/large-language-model/</loc>
+    <loc>http://localhost:1313/tag/large-language-model/</loc>
     <lastmod>2024-08-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/arxiv24repomastereval/</loc>
+    <loc>http://localhost:1313/publication/arxiv24repomastereval/</loc>
     <lastmod>2024-08-07T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/tag/deep-learning/</loc>
     <lastmod>2024-07-15T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/fse24/</loc>
+    <loc>http://localhost:1313/publication/fse24/</loc>
     <lastmod>2024-07-15T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/ai2se/</loc>
+    <loc>http://localhost:1313/tag/ai2se/</loc>
     <lastmod>2024-04-12T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/icse24seip/</loc>
+    <loc>http://localhost:1313/publication/icse24seip/</loc>
     <lastmod>2024-04-12T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/fse23/</loc>
+    <loc>http://localhost:1313/publication/fse23/</loc>
     <lastmod>2023-12-03T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:1313/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/ase23/</loc>
+    <loc>http://localhost:1313/publication/ase23/</loc>
     <lastmod>2023-09-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/ease23/</loc>
+    <loc>http://localhost:1313/publication/ease23/</loc>
     <lastmod>2023-06-14T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/android-apps/</loc>
+    <loc>http://localhost:1313/tag/android-apps/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/tse22/</loc>
+    <loc>http://localhost:1313/publication/tse22/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/gui-testing/</loc>
+    <loc>http://localhost:1313/tag/gui-testing/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/static-analysis/</loc>
+    <loc>http://localhost:1313/tag/static-analysis/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/system-settings/</loc>
+    <loc>http://localhost:1313/tag/system-settings/</loc>
     <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/ase22/</loc>
+    <loc>http://localhost:1313/publication/ase22/</loc>
     <lastmod>2022-10-10T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/android-testing/</loc>
+    <loc>http://localhost:1313/tag/android-testing/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/icsme22a/</loc>
+    <loc>http://localhost:1313/publication/icsme22a/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/automated-testing/</loc>
+    <loc>http://localhost:1313/tag/automated-testing/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/graphical-user-interface/</loc>
+    <loc>http://localhost:1313/tag/graphical-user-interface/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/icsme22b/</loc>
+    <loc>http://localhost:1313/publication/icsme22b/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/server-testing/</loc>
+    <loc>http://localhost:1313/tag/server-testing/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/traffic-record-and-replay/</loc>
+    <loc>http://localhost:1313/tag/traffic-record-and-replay/</loc>
     <lastmod>2022-09-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/ethereum/</loc>
+    <loc>http://localhost:1313/tag/ethereum/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/fault-seeding/</loc>
+    <loc>http://localhost:1313/tag/fault-seeding/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/fuzzing/</loc>
+    <loc>http://localhost:1313/tag/fuzzing/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/genetic-algorithm/</loc>
+    <loc>http://localhost:1313/tag/genetic-algorithm/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/smart-contract/</loc>
+    <loc>http://localhost:1313/tag/smart-contract/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/smt-solving/</loc>
+    <loc>http://localhost:1313/tag/smt-solving/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/test-generation/</loc>
+    <loc>http://localhost:1313/tag/test-generation/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/esem21/</loc>
+    <loc>http://localhost:1313/publication/esem21/</loc>
     <lastmod>2021-10-11T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/android/</loc>
+    <loc>http://localhost:1313/tag/android/</loc>
     <lastmod>2021-09-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/icsme21/</loc>
+    <loc>http://localhost:1313/publication/icsme21/</loc>
     <lastmod>2021-09-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/program-analysis/</loc>
+    <loc>http://localhost:1313/tag/program-analysis/</loc>
     <lastmod>2021-09-27T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/academic/</loc>
+    <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/category/demo/</loc>
+    <loc>http://localhost:1313/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/post/getting-started/</loc>
+    <loc>http://localhost:1313/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/gpgpu20/</loc>
+    <loc>http://localhost:1313/publication/gpgpu20/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/constraint-solving/</loc>
+    <loc>http://localhost:1313/tag/constraint-solving/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/data-race/</loc>
+    <loc>http://localhost:1313/tag/data-race/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/fuzz-testing/</loc>
+    <loc>http://localhost:1313/tag/fuzz-testing/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/gpu/</loc>
+    <loc>http://localhost:1313/tag/gpu/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/opencl/</loc>
+    <loc>http://localhost:1313/tag/opencl/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/test-case-generation/</loc>
+    <loc>http://localhost:1313/tag/test-case-generation/</loc>
     <lastmod>2020-02-23T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/assertions/</loc>
+    <loc>http://localhost:1313/tag/assertions/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/blockchain/</loc>
+    <loc>http://localhost:1313/tag/blockchain/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-instrumentation/</loc>
+    <loc>http://localhost:1313/tag/code-instrumentation/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/high-level-languages/</loc>
+    <loc>http://localhost:1313/tag/high-level-languages/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/apsec19a/</loc>
+    <loc>http://localhost:1313/publication/apsec19a/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/apsec19b/</loc>
+    <loc>http://localhost:1313/publication/apsec19b/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/testing/</loc>
+    <loc>http://localhost:1313/tag/testing/</loc>
     <lastmod>2019-09-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:1313/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/code-coverage/</loc>
+    <loc>http://localhost:1313/tag/code-coverage/</loc>
     <lastmod>2019-05-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/fault-finding/</loc>
+    <loc>http://localhost:1313/tag/fault-finding/</loc>
     <lastmod>2019-05-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/issta19ds/</loc>
+    <loc>http://localhost:1313/publication/issta19ds/</loc>
     <lastmod>2019-05-30T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/publication/fase19/</loc>
+    <loc>http://localhost:1313/publication/fase19/</loc>
     <lastmod>2019-04-06T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/mutation-testing/</loc>
+    <loc>http://localhost:1313/tag/mutation-testing/</loc>
     <lastmod>2019-04-06T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/slides/example/</loc>
+    <loc>http://localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/tag/demo/</loc>
+    <loc>http://localhost:1313/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/project/example/</loc>
+    <loc>http://localhost:1313/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/project/external-project/</loc>
+    <loc>http://localhost:1313/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chao-peng.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automated Testing | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/automated-testing/</link>
-      <atom:link href="https://chao-peng.github.io/tag/automated-testing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/automated-testing/</link>
+      <atom:link href="http://localhost:1313/tag/automated-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Automated Testing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Automated Testing</title>
-      <link>https://chao-peng.github.io/tag/automated-testing/</link>
+      <link>http://localhost:1313/tag/automated-testing/</link>
     </image>
     
     <item>
       <title>Automated Server Testing: an Industrial Experience Report</title>
-      <link>https://chao-peng.github.io/publication/icsme22a/</link>
+      <link>http://localhost:1313/publication/icsme22a/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icsme22a/</guid>
+      <guid>http://localhost:1313/publication/icsme22a/</guid>
       <description></description>
     </item>
     

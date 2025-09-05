@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Benchmark | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/code-benchmark/</link>
-      <atom:link href="https://chao-peng.github.io/tag/code-benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/code-benchmark/</link>
+      <atom:link href="http://localhost:1313/tag/code-benchmark/index.xml" rel="self" type="application/rss+xml" />
     <description>Code Benchmark</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Code Benchmark</title>
-      <link>https://chao-peng.github.io/tag/code-benchmark/</link>
+      <link>http://localhost:1313/tag/code-benchmark/</link>
     </image>
     
     <item>
       <title>CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering</title>
-      <link>https://chao-peng.github.io/publication/arxiv24coreqa/</link>
+      <link>http://localhost:1313/publication/arxiv24coreqa/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24coreqa/</guid>
+      <guid>http://localhost:1313/publication/arxiv24coreqa/</guid>
       <description></description>
     </item>
     

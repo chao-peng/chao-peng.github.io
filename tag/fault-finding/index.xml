@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fault Finding | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/fault-finding/</link>
-      <atom:link href="https://chao-peng.github.io/tag/fault-finding/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/fault-finding/</link>
+      <atom:link href="http://localhost:1313/tag/fault-finding/index.xml" rel="self" type="application/rss+xml" />
     <description>Fault Finding</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Fault Finding</title>
-      <link>https://chao-peng.github.io/tag/fault-finding/</link>
+      <link>http://localhost:1313/tag/fault-finding/</link>
     </image>
     
     <item>
       <title>On the Correctness of GPU Programs</title>
-      <link>https://chao-peng.github.io/publication/issta19ds/</link>
+      <link>http://localhost:1313/publication/issta19ds/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/issta19ds/</guid>
+      <guid>http://localhost:1313/publication/issta19ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
-      <link>https://chao-peng.github.io/publication/fase19/</link>
+      <link>http://localhost:1313/publication/fase19/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fase19/</guid>
+      <guid>http://localhost:1313/publication/fase19/</guid>
       <description></description>
     </item>
     

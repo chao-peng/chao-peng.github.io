@@ -2,189 +2,189 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Chao Peng</title>
-    <link>https://chao-peng.github.io/publication-type/paper-conference/</link>
-      <atom:link href="https://chao-peng.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
-      <link>https://chao-peng.github.io/publication-type/paper-conference/</link>
+      <link>http://localhost:1313/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production</title>
-      <link>https://chao-peng.github.io/publication/icse25seip/</link>
+      <link>http://localhost:1313/publication/icse25seip/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icse25seip/</guid>
+      <guid>http://localhost:1313/publication/icse25seip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning</title>
-      <link>https://chao-peng.github.io/publication/acl25/</link>
+      <link>http://localhost:1313/publication/acl25/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/acl25/</guid>
+      <guid>http://localhost:1313/publication/acl25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark</title>
-      <link>https://chao-peng.github.io/publication/sigir25short/</link>
+      <link>http://localhost:1313/publication/sigir25short/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/sigir25short/</guid>
+      <guid>http://localhost:1313/publication/sigir25short/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
-      <link>https://chao-peng.github.io/publication/coling25/</link>
+      <link>http://localhost:1313/publication/coling25/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/coling25/</guid>
+      <guid>http://localhost:1313/publication/coling25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
-      <link>https://chao-peng.github.io/publication/esem25/</link>
+      <link>http://localhost:1313/publication/esem25/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/esem25/</guid>
+      <guid>http://localhost:1313/publication/esem25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
-      <link>https://chao-peng.github.io/publication/fse25industry/</link>
+      <link>http://localhost:1313/publication/fse25industry/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fse25industry/</guid>
+      <guid>http://localhost:1313/publication/fse25industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
-      <link>https://chao-peng.github.io/publication/ase24nier/</link>
+      <link>http://localhost:1313/publication/ase24nier/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/ase24nier/</guid>
+      <guid>http://localhost:1313/publication/ase24nier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
-      <link>https://chao-peng.github.io/publication/fse24/</link>
+      <link>http://localhost:1313/publication/fse24/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fse24/</guid>
+      <guid>http://localhost:1313/publication/fse24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning</title>
-      <link>https://chao-peng.github.io/publication/icse24seip/</link>
+      <link>http://localhost:1313/publication/icse24seip/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icse24seip/</guid>
+      <guid>http://localhost:1313/publication/icse24seip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AG3: Automated Game GUI Text Glitch Detection based on Computer Vision</title>
-      <link>https://chao-peng.github.io/publication/fse23/</link>
+      <link>http://localhost:1313/publication/fse23/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fse23/</guid>
+      <guid>http://localhost:1313/publication/fse23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration</title>
-      <link>https://chao-peng.github.io/publication/ase23/</link>
+      <link>http://localhost:1313/publication/ase23/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/ase23/</guid>
+      <guid>http://localhost:1313/publication/ase23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NxtUnit: Automated Unit Test Generation for Go</title>
-      <link>https://chao-peng.github.io/publication/ease23/</link>
+      <link>http://localhost:1313/publication/ease23/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/ease23/</guid>
+      <guid>http://localhost:1313/publication/ease23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning</title>
-      <link>https://chao-peng.github.io/publication/ase22/</link>
+      <link>http://localhost:1313/publication/ase22/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/ase22/</guid>
+      <guid>http://localhost:1313/publication/ase22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Server Testing: an Industrial Experience Report</title>
-      <link>https://chao-peng.github.io/publication/icsme22a/</link>
+      <link>http://localhost:1313/publication/icsme22a/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icsme22a/</guid>
+      <guid>http://localhost:1313/publication/icsme22a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
-      <link>https://chao-peng.github.io/publication/icsme22b/</link>
+      <link>http://localhost:1313/publication/icsme22b/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icsme22b/</guid>
+      <guid>http://localhost:1313/publication/icsme22b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Smart Contracts: Which Technique Performs Best?</title>
-      <link>https://chao-peng.github.io/publication/esem21/</link>
+      <link>http://localhost:1313/publication/esem21/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/esem21/</guid>
+      <guid>http://localhost:1313/publication/esem21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAT: Change-focused Android GUI Testing</title>
-      <link>https://chao-peng.github.io/publication/icsme21/</link>
+      <link>http://localhost:1313/publication/icsme21/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/icsme21/</guid>
+      <guid>http://localhost:1313/publication/icsme21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
-      <link>https://chao-peng.github.io/publication/gpgpu20/</link>
+      <link>http://localhost:1313/publication/gpgpu20/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/gpgpu20/</guid>
+      <guid>http://localhost:1313/publication/gpgpu20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
-      <link>https://chao-peng.github.io/publication/apsec19a/</link>
+      <link>http://localhost:1313/publication/apsec19a/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/apsec19a/</guid>
+      <guid>http://localhost:1313/publication/apsec19a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SolAnalyser: A Framework for Analysing and Testing Smart Contracts</title>
-      <link>https://chao-peng.github.io/publication/apsec19b/</link>
+      <link>http://localhost:1313/publication/apsec19b/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/apsec19b/</guid>
+      <guid>http://localhost:1313/publication/apsec19b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Correctness of GPU Programs</title>
-      <link>https://chao-peng.github.io/publication/issta19ds/</link>
+      <link>http://localhost:1313/publication/issta19ds/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/issta19ds/</guid>
+      <guid>http://localhost:1313/publication/issta19ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
-      <link>https://chao-peng.github.io/publication/fase19/</link>
+      <link>http://localhost:1313/publication/fase19/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fase19/</guid>
+      <guid>http://localhost:1313/publication/fase19/</guid>
       <description></description>
     </item>
     

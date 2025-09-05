@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 21, 2025 --><html lang="en-us" >
+<!-- Last Published: September 5, 2025 --><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.a81c3a3ff0dc52d3bfc1f5aa5bccf667.css" />
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
   
@@ -290,8 +290,8 @@ In addition to the test generator, we also present a schedule amplifier that sim
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://chao-peng.github.io/publication/gpgpu20/" />
-<link rel="canonical" href="https://chao-peng.github.io/publication/gpgpu20/" />
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/gpgpu20/" />
+<link rel="canonical" href="http://localhost:1313/publication/gpgpu20/" />
 
 
 
@@ -325,7 +325,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
 
   <meta property="twitter:site" content="@clarkcp93" />
   <meta property="twitter:creator" content="@clarkcp93" />
-<meta property="twitter:image" content="https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" />
 
 
 
@@ -333,13 +333,13 @@ In addition to the test generator, we also present a schedule amplifier that sim
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chao Peng" />
-<meta property="og:url" content="https://chao-peng.github.io/publication/gpgpu20/" />
+<meta property="og:url" content="http://localhost:1313/publication/gpgpu20/" />
 <meta property="og:title" content="Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving | Chao Peng" />
 <meta property="og:description" content="Graphics Processing Units (GPUs) are massively parallel processors offering performance acceleration and energy efficiency unmatched by current processors (CPUs) in computers. These advantages along with recent advances in the programmability of GPUs have made them attractive for general-purpose computations. Despite the advances in programmability, GPU kernels are hard to code and analyse due to the high complexity of memory sharing patterns, striding patterns for memory accesses, implicit synchronisation, and combinatorial explosion of thread interleavings. Existing few techniques for testing GPU kernels use symbolic execution for test generation that incur a high overhead, have limited scalability and do not handle all data types.
 
 We propose a test generation technique for OpenCL kernels that combines mutation-based fuzzing and selective constraint solving with the goal of being fast, effective and scalable. Fuzz testing for GPU kernels has not been explored previously. Our approach for fuzz testing randomly mutates input kernel argument values with the goal of increasing branch coverage. When fuzz testing is unable to increase branch coverage with random mutations, we gather path constraints for uncovered branch conditions and invoke the Z3 constraint solver to generate tests for them.
 
-In addition to the test generator, we also present a schedule amplifier that simulates multiple work-group schedules, with which to execute each of the generated tests. The schedule amplifier is designed to help uncover inter work-group data races. We evaluate the effectiveness of the generated tests and schedule amplifier using 217 kernels from open source projects and industry standard benchmark suites measuring branch coverage and fault finding. We find our test generation technique achieves close to 100% coverage and mutation score for majority of the kernels. Overhead incurred in test generation is small (average of 0.8 seconds). We also confirmed our technique scales easily to large kernels, and can support all OpenCL data types, including complex data structures." /><meta property="og:image" content="https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+In addition to the test generator, we also present a schedule amplifier that simulates multiple work-group schedules, with which to execute each of the generated tests. The schedule amplifier is designed to help uncover inter work-group data races. We evaluate the effectiveness of the generated tests and schedule amplifier using 217 kernels from open source projects and industry standard benchmark suites measuring branch coverage and fault finding. We find our test generation technique achieves close to 100% coverage and mutation score for majority of the kernels. Overhead incurred in test generation is small (average of 0.8 seconds). We also confirmed our technique scales easily to large kernels, and can support all OpenCL data types, including complex data structures." /><meta property="og:image" content="http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -372,7 +372,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://chao-peng.github.io/publication/gpgpu20/"
+    "@id": "http://localhost:1313/publication/gpgpu20/"
   },
   "headline": "Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving",
   
@@ -389,7 +389,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
     "name": "Chao Peng",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_192x192_fill_lanczos_center_3.png"
+      "url": "http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Graphics Processing Units (GPUs) are massively parallel processors offering performance acceleration and energy efficiency unmatched by current processors (CPUs) in computers. These advantages along with recent advances in the programmability of GPUs have made them attractive for general-purpose computations. Despite the advances in programmability, GPU kernels are hard to code and analyse due to the high complexity of memory sharing patterns, striding patterns for memory accesses, implicit synchronisation, and combinatorial explosion of thread interleavings. Existing few techniques for testing GPU kernels use symbolic execution for test generation that incur a high overhead, have limited scalability and do not handle all data types.\n\nWe propose a test generation technique for OpenCL kernels that combines mutation-based fuzzing and selective constraint solving with the goal of being fast, effective and scalable. Fuzz testing for GPU kernels has not been explored previously. Our approach for fuzz testing randomly mutates input kernel argument values with the goal of increasing branch coverage. When fuzz testing is unable to increase branch coverage with random mutations, we gather path constraints for uncovered branch conditions and invoke the Z3 constraint solver to generate tests for them.\n\nIn addition to the test generator, we also present a schedule amplifier that simulates multiple work-group schedules, with which to execute each of the generated tests. The schedule amplifier is designed to help uncover inter work-group data races. We evaluate the effectiveness of the generated tests and schedule amplifier using 217 kernels from open source projects and industry standard benchmark suites measuring branch coverage and fault finding. We find our test generation technique achieves close to 100% coverage and mutation score for majority of the kernels. Overhead incurred in test generation is small (average of 0.8 seconds). We also confirmed our technique scales easily to large kernels, and can support all OpenCL data types, including complex data structures."
@@ -445,7 +445,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
   
   
   
-  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -1148,7 +1148,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F&amp;text=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F&amp;text=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1165,7 +1165,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F&amp;t=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F&amp;t=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1184,7 +1184,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
         
       
       <li>
-        <a href="mailto:?subject=Automated%20Test%20Generation%20for%20OpenCL%20Kernels%20Using%20Fuzzing%20and%20Constraint%20Solving&amp;body=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Automated%20Test%20Generation%20for%20OpenCL%20Kernels%20Using%20Fuzzing%20and%20Constraint%20Solving&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1201,7 +1201,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F&amp;title=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F&amp;title=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1218,7 +1218,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
       
       
       <li>
-        <a href="whatsapp://send?text=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving%20https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1235,7 +1235,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Fgpgpu20%2F&amp;title=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fgpgpu20%2F&amp;title=Automated&#43;Test&#43;Generation&#43;for&#43;OpenCL&#43;Kernels&#43;Using&#43;Fuzzing&#43;and&#43;Constraint&#43;Solving" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1269,11 +1269,11 @@ In addition to the test generator, we also present a schedule amplifier that sim
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://chao-peng.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf44681bde4f95e7addf795ef12d1bc48_6279749_270x270_fill_q75_lanczos_center.jpg" alt="Chao Peng"></a>
+      <a href="http://localhost:1313/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf44681bde4f95e7addf795ef12d1bc48_6279749_270x270_fill_q75_lanczos_center.jpg" alt="Chao Peng"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://chao-peng.github.io/">Chao Peng</a></h5>
+      <h5 class="card-title"><a href="http://localhost:1313/">Chao Peng</a></h5>
       <h6 class="card-subtitle">Senior Researcher</h6>
       <p class="card-text">My research interests include Software Testing, Program Repair and Compilers.</p>
       <ul class="network-icon" aria-hidden="true">
@@ -1505,7 +1505,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
   
 
 
-<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
+<script src="/js/vendor-bundle.min.js"></script>
 
 
 
@@ -1586,7 +1586,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
 
 
 
@@ -1600,11 +1600,11 @@ In addition to the test generator, we also present a schedule amplifier that sim
   
 
 
-<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
+<script src="/en/js/wowchemy.min.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+  <script src="/js/wowchemy-map.js" type="module"></script>
 
 
 
@@ -1637,7 +1637,7 @@ In addition to the test generator, we also present a schedule amplifier that sim
 </div>
 
 
-  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+  <script src="/js/wowchemy-publication.js" type="module"></script>
 
 
 

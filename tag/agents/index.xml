@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agents | Chao Peng</title>
-    <link>https://chao-peng.github.io/tag/agents/</link>
-      <atom:link href="https://chao-peng.github.io/tag/agents/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/agents/</link>
+      <atom:link href="http://localhost:1313/tag/agents/index.xml" rel="self" type="application/rss+xml" />
     <description>Agents</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Agents</title>
-      <link>https://chao-peng.github.io/tag/agents/</link>
+      <link>http://localhost:1313/tag/agents/</link>
     </image>
     
     <item>
+      <title>Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling</title>
+      <link>http://localhost:1313/publication/arxiv25traeagent/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/arxiv25traeagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning</title>
-      <link>https://chao-peng.github.io/publication/acl25/</link>
+      <link>http://localhost:1313/publication/acl25/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/acl25/</guid>
+      <guid>http://localhost:1313/publication/acl25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An LLM-based Agent for Reliable Docker Environment Configuration</title>
-      <link>https://chao-peng.github.io/publication/arxiv24repo2run/</link>
+      <link>http://localhost:1313/publication/arxiv24repo2run/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24repo2run/</guid>
+      <guid>http://localhost:1313/publication/arxiv24repo2run/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
-      <link>https://chao-peng.github.io/publication/fse25industry/</link>
+      <link>http://localhost:1313/publication/fse25industry/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/fse25industry/</guid>
+      <guid>http://localhost:1313/publication/fse25industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
-      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
+      <link>http://localhost:1313/publication/arxiv24empirical/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
+      <guid>http://localhost:1313/publication/arxiv24empirical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
-      <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
+      <link>http://localhost:1313/publication/arxiv24marscodeagent/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
-      <guid>https://chao-peng.github.io/publication/arxiv24marscodeagent/</guid>
+      <guid>http://localhost:1313/publication/arxiv24marscodeagent/</guid>
       <description></description>
     </item>
     
