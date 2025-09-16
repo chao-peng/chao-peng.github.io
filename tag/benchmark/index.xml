@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benchmark | Chao Peng</title>
-    <link>http://localhost:1313/tag/benchmark/</link>
-      <atom:link href="http://localhost:1313/tag/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/benchmark/</link>
+      <atom:link href="https://chao-peng.github.io/tag/benchmark/index.xml" rel="self" type="application/rss+xml" />
     <description>Benchmark</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Benchmark</title>
-      <link>http://localhost:1313/tag/benchmark/</link>
+      <link>https://chao-peng.github.io/tag/benchmark/</link>
     </image>
     
     <item>
-      <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
-      <link>http://localhost:1313/publication/coling25/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/coling25/</guid>
+      <title>RepoMasterEval: Evaluating Code Completion via Real-World Repositories</title>
+      <link>https://chao-peng.github.io/publication/ase25industry/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase25industry/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RepoMasterEval: Evaluating Code Completion via Real-World Repositories</title>
-      <link>http://localhost:1313/publication/arxiv24repomastereval/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24repomastereval/</guid>
+      <title>SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code</title>
+      <link>https://chao-peng.github.io/publication/arxiv25safe/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv25safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
+      <link>https://chao-peng.github.io/publication/coling25/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/coling25/</guid>
       <description></description>
     </item>
     

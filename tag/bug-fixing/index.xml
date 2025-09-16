@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bug Fixing | Chao Peng</title>
-    <link>http://localhost:1313/tag/bug-fixing/</link>
-      <atom:link href="http://localhost:1313/tag/bug-fixing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/bug-fixing/</link>
+      <atom:link href="https://chao-peng.github.io/tag/bug-fixing/index.xml" rel="self" type="application/rss+xml" />
     <description>Bug Fixing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Bug Fixing</title>
-      <link>http://localhost:1313/tag/bug-fixing/</link>
+      <link>https://chao-peng.github.io/tag/bug-fixing/</link>
     </image>
     
     <item>
+      <title>Tool-integrated Reinforcement Learning for Repo Deep Search</title>
+      <link>https://chao-peng.github.io/publication/arxiv25tooltrain/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv25tooltrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling</title>
-      <link>http://localhost:1313/publication/arxiv25traeagent/</link>
+      <link>https://chao-peng.github.io/publication/arxiv25traeagent/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv25traeagent/</guid>
+      <guid>https://chao-peng.github.io/publication/arxiv25traeagent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
-      <link>http://localhost:1313/publication/arxiv24empirical/</link>
+      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24empirical/</guid>
+      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
-      <link>http://localhost:1313/publication/arxiv24marscodeagent/</link>
+      <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24marscodeagent/</guid>
+      <guid>https://chao-peng.github.io/publication/arxiv24marscodeagent/</guid>
       <description></description>
     </item>
     

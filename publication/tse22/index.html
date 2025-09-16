@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: September 5, 2025 --><html lang="en-us" >
+<!-- Last Published: September 16, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.a81c3a3ff0dc52d3bfc1f5aa5bccf667.css" />
 
   
   
@@ -286,8 +286,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/tse22/" />
-<link rel="canonical" href="http://localhost:1313/publication/tse22/" />
+<link rel="alternate" hreflang="en-us" href="https://chao-peng.github.io/publication/tse22/" />
+<link rel="canonical" href="https://chao-peng.github.io/publication/tse22/" />
 
 
 
@@ -321,7 +321,7 @@
 
   <meta property="twitter:site" content="@clarkcp93" />
   <meta property="twitter:creator" content="@clarkcp93" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:image" content="https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" />
 
 
 
@@ -329,9 +329,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chao Peng" />
-<meta property="og:url" content="http://localhost:1313/publication/tse22/" />
+<meta property="og:url" content="https://chao-peng.github.io/publication/tse22/" />
 <meta property="og:title" content="Characterizing and Finding System Setting-Related Defects in Android Apps | Chao Peng" />
-<meta property="og:description" content="Android, the most popular mobile system, offers a number of user-configurable system settings (e.g., network, location, and permission) for controlling devices and apps. Even popular, well-tested apps may fail to properly adapt their behaviors to diverse setting changes, thus frustrating their users. However, there exists no effort to systematically investigate such defects. To this end, we conduct the first large-scale empirical study to understand and characterize these system setting-related defects(in short as “setting defects”), which reside in apps and are triggered by system setting changes. We devote substantial manual effort (over four person-months) to analyze 1,074 setting defects from 180 popular apps on GitHub. We investigate the impact, root causes, and consequences of these setting defects and their correlations. We find that (1) setting defects have a wide impact on apps’ correctness with diverse root causes, (2) the majority of these defects (≈70.7%) cause non-crashing (logic) failures, and (3) some correlations exist between the setting categories, root causes, and consequences. Motivated and informed by these findings, we propose two bug-finding techniques that can synergistically detect setting defects from both the GUI and code levels. Specifically, at the GUI level,we design and introduce setting-wise metamorphic fuzzing, the first automated dynamic testing technique to detect setting defects(causing crash and non-crashing failures, respectively) for Android apps. We implement this technique as an end-to-end, automatedGUI testing tool named SETDROID. At the code level, we distill two major fault patterns and implement a static analysis tool named SETCHECKER to identify potential setting defects. We evaluate SETDROID and SETCHECKER on 26 popular, open-source Android apps, and they find 48 unique, previously-unknown setting defects. To date, 35 have been confirmed and 21 have been fixed by app developers. We also apply SETDROID and SETCHECKER on five highly popular industrial apps, namely WeChat, QQMail, TikTok,CapCut, and Alipay HK, all of which each have billions of monthly active users. SETDROID successfully detects 17 previously unknown setting defects in these apps’ latest releases, and all defects have been confirmed and fixed by the app vendors. After that, we collaborate with ByteDance and deploy these two bug-finding techniques internally to stress-test TikTok, one of its major app products.Within a two-month testing campaign, SETDROID successfully finds 53 setting defects, and SETCHECKER finds 22 ones. So far, 59have been confirmed and 31 have been fixed. All these defects escaped from prior developer testing. By now, SETDROIDhas been integrated into ByteDance’s official app testing infrastructure named FASTBOT for daily testing. These results demonstrate the strong effectiveness and practicality of our proposed techniques." /><meta property="og:image" content="http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Android, the most popular mobile system, offers a number of user-configurable system settings (e.g., network, location, and permission) for controlling devices and apps. Even popular, well-tested apps may fail to properly adapt their behaviors to diverse setting changes, thus frustrating their users. However, there exists no effort to systematically investigate such defects. To this end, we conduct the first large-scale empirical study to understand and characterize these system setting-related defects(in short as “setting defects”), which reside in apps and are triggered by system setting changes. We devote substantial manual effort (over four person-months) to analyze 1,074 setting defects from 180 popular apps on GitHub. We investigate the impact, root causes, and consequences of these setting defects and their correlations. We find that (1) setting defects have a wide impact on apps’ correctness with diverse root causes, (2) the majority of these defects (≈70.7%) cause non-crashing (logic) failures, and (3) some correlations exist between the setting categories, root causes, and consequences. Motivated and informed by these findings, we propose two bug-finding techniques that can synergistically detect setting defects from both the GUI and code levels. Specifically, at the GUI level,we design and introduce setting-wise metamorphic fuzzing, the first automated dynamic testing technique to detect setting defects(causing crash and non-crashing failures, respectively) for Android apps. We implement this technique as an end-to-end, automatedGUI testing tool named SETDROID. At the code level, we distill two major fault patterns and implement a static analysis tool named SETCHECKER to identify potential setting defects. We evaluate SETDROID and SETCHECKER on 26 popular, open-source Android apps, and they find 48 unique, previously-unknown setting defects. To date, 35 have been confirmed and 21 have been fixed by app developers. We also apply SETDROID and SETCHECKER on five highly popular industrial apps, namely WeChat, QQMail, TikTok,CapCut, and Alipay HK, all of which each have billions of monthly active users. SETDROID successfully detects 17 previously unknown setting defects in these apps’ latest releases, and all defects have been confirmed and fixed by the app vendors. After that, we collaborate with ByteDance and deploy these two bug-finding techniques internally to stress-test TikTok, one of its major app products.Within a two-month testing campaign, SETDROID successfully finds 53 setting defects, and SETCHECKER finds 22 ones. So far, 59have been confirmed and 31 have been fixed. All these defects escaped from prior developer testing. By now, SETDROIDhas been integrated into ByteDance’s official app testing infrastructure named FASTBOT for daily testing. These results demonstrate the strong effectiveness and practicality of our proposed techniques." /><meta property="og:image" content="https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -364,7 +364,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/tse22/"
+    "@id": "https://chao-peng.github.io/publication/tse22/"
   },
   "headline": "Characterizing and Finding System Setting-Related Defects in Android Apps",
   
@@ -381,7 +381,7 @@
     "name": "Chao Peng",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_192x192_fill_lanczos_center_3.png"
+      "url": "https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Android, the most popular mobile system, offers a number of user-configurable system settings (e.g., network, location, and permission) for controlling devices and apps. Even popular, well-tested apps may fail to properly adapt their behaviors to diverse setting changes, thus frustrating their users. However, there exists no effort to systematically investigate such defects. To this end, we conduct the first large-scale empirical study to understand and characterize these system setting-related defects(in short as “setting defects”), which reside in apps and are triggered by system setting changes. We devote substantial manual effort (over four person-months) to analyze 1,074 setting defects from 180 popular apps on GitHub. We investigate the impact, root causes, and consequences of these setting defects and their correlations. We find that (1) setting defects have a wide impact on apps’ correctness with diverse root causes, (2) the majority of these defects (≈70.7%) cause non-crashing (logic) failures, and (3) some correlations exist between the setting categories, root causes, and consequences. Motivated and informed by these findings, we propose two bug-finding techniques that can synergistically detect setting defects from both the GUI and code levels. Specifically, at the GUI level,we design and introduce setting-wise metamorphic fuzzing, the first automated dynamic testing technique to detect setting defects(causing crash and non-crashing failures, respectively) for Android apps. We implement this technique as an end-to-end, automatedGUI testing tool named SETDROID. At the code level, we distill two major fault patterns and implement a static analysis tool named SETCHECKER to identify potential setting defects. We evaluate SETDROID and SETCHECKER on 26 popular, open-source Android apps, and they find 48 unique, previously-unknown setting defects. To date, 35 have been confirmed and 21 have been fixed by app developers. We also apply SETDROID and SETCHECKER on five highly popular industrial apps, namely WeChat, QQMail, TikTok,CapCut, and Alipay HK, all of which each have billions of monthly active users. SETDROID successfully detects 17 previously unknown setting defects in these apps’ latest releases, and all defects have been confirmed and fixed by the app vendors. After that, we collaborate with ByteDance and deploy these two bug-finding techniques internally to stress-test TikTok, one of its major app products.Within a two-month testing campaign, SETDROID successfully finds 53 setting defects, and SETCHECKER finds 22 ones. So far, 59have been confirmed and 31 have been fixed. All these defects escaped from prior developer testing. By now, SETDROIDhas been integrated into ByteDance’s official app testing infrastructure named FASTBOT for daily testing. These results demonstrate the strong effectiveness and practicality of our proposed techniques."
@@ -437,7 +437,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -1135,7 +1135,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F&amp;text=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F&amp;text=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1152,7 +1152,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F&amp;t=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F&amp;t=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1171,7 +1171,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Characterizing%20and%20Finding%20System%20Setting-Related%20Defects%20in%20Android%20Apps&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Characterizing%20and%20Finding%20System%20Setting-Related%20Defects%20in%20Android%20Apps&amp;body=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1188,7 +1188,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F&amp;title=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F&amp;title=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1205,7 +1205,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps%20https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1222,7 +1222,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Ftse22%2F&amp;title=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fchao-peng.github.io%2Fpublication%2Ftse22%2F&amp;title=Characterizing&#43;and&#43;Finding&#43;System&#43;Setting-Related&#43;Defects&#43;in&#43;Android&#43;Apps" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1274,12 +1274,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="http://localhost:1313/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf44681bde4f95e7addf795ef12d1bc48_6279749_270x270_fill_q75_lanczos_center.jpg" alt="Chao Peng"></a>
+      <a href="https://chao-peng.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf44681bde4f95e7addf795ef12d1bc48_6279749_270x270_fill_q75_lanczos_center.jpg" alt="Chao Peng"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Chao Peng</a></h5>
-      <h6 class="card-subtitle">Senior Researcher</h6>
+      <h5 class="card-title"><a href="https://chao-peng.github.io/">Chao Peng</a></h5>
+      <h6 class="card-subtitle">Principal Research Scientist</h6>
       <p class="card-text">My research interests include Software Testing, Program Repair and Compilers.</p>
       <ul class="network-icon" aria-hidden="true">
   
@@ -1528,7 +1528,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
@@ -1609,7 +1609,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1623,11 +1623,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1660,7 +1660,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

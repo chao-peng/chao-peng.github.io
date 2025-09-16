@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Traffic Record and Replay | Chao Peng</title>
-    <link>http://localhost:1313/tag/traffic-record-and-replay/</link>
-      <atom:link href="http://localhost:1313/tag/traffic-record-and-replay/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/tag/traffic-record-and-replay/</link>
+      <atom:link href="https://chao-peng.github.io/tag/traffic-record-and-replay/index.xml" rel="self" type="application/rss+xml" />
     <description>Traffic Record and Replay</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Traffic Record and Replay</title>
-      <link>http://localhost:1313/tag/traffic-record-and-replay/</link>
+      <link>https://chao-peng.github.io/tag/traffic-record-and-replay/</link>
     </image>
     
     <item>
       <title>Automated Server Testing: an Industrial Experience Report</title>
-      <link>http://localhost:1313/publication/icsme22a/</link>
+      <link>https://chao-peng.github.io/publication/icsme22a/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icsme22a/</guid>
+      <guid>https://chao-peng.github.io/publication/icsme22a/</guid>
       <description></description>
     </item>
     

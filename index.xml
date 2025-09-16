@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chao Peng</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chao-peng.github.io/</link>
+      <atom:link href="https://chao-peng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chao Peng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chao-peng.github.io/media/icon_hu24af9a6a3a7ba1c8982373bbf17c5451_23715_512x512_fill_lanczos_center_3.png</url>
       <title>Chao Peng</title>
-      <link>http://localhost:1313/</link>
+      <link>https://chao-peng.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/talk/example-talk/</link>
+      <link>https://chao-peng.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <guid>https://chao-peng.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,154 +33,178 @@
     </item>
     
     <item>
-      <title>Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling</title>
-      <link>http://localhost:1313/publication/arxiv25traeagent/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv25traeagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production</title>
-      <link>http://localhost:1313/publication/icse25seip/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icse25seip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning</title>
-      <link>http://localhost:1313/publication/acl25/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/acl25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark</title>
-      <link>http://localhost:1313/publication/sigir25short/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/sigir25short/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An LLM-based Agent for Reliable Docker Environment Configuration</title>
-      <link>http://localhost:1313/publication/arxiv24repo2run/</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24repo2run/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
-      <link>http://localhost:1313/publication/coling25/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/coling25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering</title>
-      <link>http://localhost:1313/publication/arxiv24coreqa/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24coreqa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
-      <link>http://localhost:1313/publication/esem25/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/esem25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models</title>
-      <link>http://localhost:1313/publication/arxiv24benchmark/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
-      <link>http://localhost:1313/publication/fse25industry/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/fse25industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ContextModule: Improving Code Completion via Repository-level Contextual Information</title>
-      <link>http://localhost:1313/publication/arxiv24contextmodule/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24contextmodule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
-      <link>http://localhost:1313/publication/arxiv24empirical/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24empirical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
-      <link>http://localhost:1313/publication/ase24nier/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/ase24nier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
-      <link>http://localhost:1313/publication/arxiv24marscodeagent/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24marscodeagent/</guid>
+      <title>CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation</title>
+      <link>https://chao-peng.github.io/publication/ase25/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RepoMasterEval: Evaluating Code Completion via Real-World Repositories</title>
-      <link>http://localhost:1313/publication/arxiv24repomastereval/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/arxiv24repomastereval/</guid>
+      <link>https://chao-peng.github.io/publication/ase25industry/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase25industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool-integrated Reinforcement Learning for Repo Deep Search</title>
+      <link>https://chao-peng.github.io/publication/arxiv25tooltrain/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv25tooltrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling</title>
+      <link>https://chao-peng.github.io/publication/arxiv25traeagent/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv25traeagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code</title>
+      <link>https://chao-peng.github.io/publication/arxiv25safe/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv25safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production</title>
+      <link>https://chao-peng.github.io/publication/icse25seip/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/icse25seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning</title>
+      <link>https://chao-peng.github.io/publication/acl25/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/acl25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark</title>
+      <link>https://chao-peng.github.io/publication/sigir25short/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/sigir25short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An LLM-based Agent for Reliable Docker Environment Configuration</title>
+      <link>https://chao-peng.github.io/publication/arxiv24repo2run/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24repo2run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study</title>
+      <link>https://chao-peng.github.io/publication/coling25/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/coling25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering</title>
+      <link>https://chao-peng.github.io/publication/arxiv24coreqa/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24coreqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs</title>
+      <link>https://chao-peng.github.io/publication/esem25/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/esem25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models</title>
+      <link>https://chao-peng.github.io/publication/arxiv24benchmark/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions</title>
+      <link>https://chao-peng.github.io/publication/fse25industry/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/fse25industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextModule: Improving Code Completion via Repository-level Contextual Information</title>
+      <link>https://chao-peng.github.io/publication/arxiv24contextmodule/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24contextmodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study on LLM-based Agents for Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24empirical/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation</title>
+      <link>https://chao-peng.github.io/publication/ase24nier/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/ase24nier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarsCode Agent: AI-native Automated Bug Fixing</title>
+      <link>https://chao-peng.github.io/publication/arxiv24marscodeagent/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>https://chao-peng.github.io/publication/arxiv24marscodeagent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks</title>
-      <link>http://localhost:1313/publication/fse24/</link>
+      <link>https://chao-peng.github.io/publication/fse24/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/fse24/</guid>
+      <guid>https://chao-peng.github.io/publication/fse24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/icse24seip/</link>
+      <link>https://chao-peng.github.io/publication/icse24seip/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icse24seip/</guid>
+      <guid>https://chao-peng.github.io/publication/icse24seip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AG3: Automated Game GUI Text Glitch Detection based on Computer Vision</title>
-      <link>http://localhost:1313/publication/fse23/</link>
+      <link>https://chao-peng.github.io/publication/fse23/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/fse23/</guid>
+      <guid>https://chao-peng.github.io/publication/fse23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>http://localhost:1313/post/blog-with-jupyter/</link>
+      <link>https://chao-peng.github.io/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
+      <guid>https://chao-peng.github.io/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -202,10 +226,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp&#34;
+               src=&#34;https://chao-peng.github.io/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -225,73 +249,73 @@
     
     <item>
       <title>Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration</title>
-      <link>http://localhost:1313/publication/ase23/</link>
+      <link>https://chao-peng.github.io/publication/ase23/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/ase23/</guid>
+      <guid>https://chao-peng.github.io/publication/ase23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NxtUnit: Automated Unit Test Generation for Go</title>
-      <link>http://localhost:1313/publication/ease23/</link>
+      <link>https://chao-peng.github.io/publication/ease23/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/ease23/</guid>
+      <guid>https://chao-peng.github.io/publication/ease23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing and Finding System Setting-Related Defects in Android Apps</title>
-      <link>http://localhost:1313/publication/tse22/</link>
+      <link>https://chao-peng.github.io/publication/tse22/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/tse22/</guid>
+      <guid>https://chao-peng.github.io/publication/tse22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/ase22/</link>
+      <link>https://chao-peng.github.io/publication/ase22/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/ase22/</guid>
+      <guid>https://chao-peng.github.io/publication/ase22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Server Testing: an Industrial Experience Report</title>
-      <link>http://localhost:1313/publication/icsme22a/</link>
+      <link>https://chao-peng.github.io/publication/icsme22a/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icsme22a/</guid>
+      <guid>https://chao-peng.github.io/publication/icsme22a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human</title>
-      <link>http://localhost:1313/publication/icsme22b/</link>
+      <link>https://chao-peng.github.io/publication/icsme22b/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icsme22b/</guid>
+      <guid>https://chao-peng.github.io/publication/icsme22b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Smart Contracts: Which Technique Performs Best?</title>
-      <link>http://localhost:1313/publication/esem21/</link>
+      <link>https://chao-peng.github.io/publication/esem21/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/esem21/</guid>
+      <guid>https://chao-peng.github.io/publication/esem21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAT: Change-focused Android GUI Testing</title>
-      <link>http://localhost:1313/publication/icsme21/</link>
+      <link>https://chao-peng.github.io/publication/icsme21/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/icsme21/</guid>
+      <guid>https://chao-peng.github.io/publication/icsme21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://chao-peng.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://chao-peng.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -369,33 +393,33 @@
     
     <item>
       <title>Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving</title>
-      <link>http://localhost:1313/publication/gpgpu20/</link>
+      <link>https://chao-peng.github.io/publication/gpgpu20/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/gpgpu20/</guid>
+      <guid>https://chao-peng.github.io/publication/gpgpu20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIF: A Framework for Solidity Contract Instrumentation and Analysis</title>
-      <link>http://localhost:1313/publication/apsec19a/</link>
+      <link>https://chao-peng.github.io/publication/apsec19a/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/apsec19a/</guid>
+      <guid>https://chao-peng.github.io/publication/apsec19a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SolAnalyser: A Framework for Analysing and Testing Smart Contracts</title>
-      <link>http://localhost:1313/publication/apsec19b/</link>
+      <link>https://chao-peng.github.io/publication/apsec19b/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/apsec19b/</guid>
+      <guid>https://chao-peng.github.io/publication/apsec19b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:1313/post/writing-technical-content/</link>
+      <link>https://chao-peng.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/writing-technical-content/</guid>
+      <guid>https://chao-peng.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -495,7 +519,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-691438275&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-429371865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -505,7 +529,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-691438275&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-429371865&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -787,25 +811,25 @@ Crash --&gt; [*]
     
     <item>
       <title>On the Correctness of GPU Programs</title>
-      <link>http://localhost:1313/publication/issta19ds/</link>
+      <link>https://chao-peng.github.io/publication/issta19ds/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/issta19ds/</guid>
+      <guid>https://chao-peng.github.io/publication/issta19ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLTestCheck: Measuring Test Effectiveness for GPU Kernels</title>
-      <link>http://localhost:1313/publication/fase19/</link>
+      <link>https://chao-peng.github.io/publication/fase19/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/publication/fase19/</guid>
+      <guid>https://chao-peng.github.io/publication/fase19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>https://chao-peng.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>https://chao-peng.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -928,9 +952,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>http://localhost:1313/project/example/</link>
+      <link>https://chao-peng.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/example/</guid>
+      <guid>https://chao-peng.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -941,9 +965,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>http://localhost:1313/project/external-project/</link>
+      <link>https://chao-peng.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/external-project/</guid>
+      <guid>https://chao-peng.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
